@@ -6899,7 +6899,7 @@
           </w>
         </p>
 
-        <!--<gap extent="5" unit="lines"/>-->
+        <!--<gap extent="5" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
         <p n="150" xml:id="CS730_p_28d_150">
           <gap extent="5" unit="lines"/>
@@ -7279,7 +7279,7 @@
           <w>licentia</w>
         </p>
 
-        <gap extent="10" unit="folios"/>
+        <gap extent="10" unit="folios"/><!-- CHECK -->
 
 
         <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030a.jp2/full/pct:50/0/default.jpg" n="30a" xml:id="CS730_folio_30a"/>
@@ -7572,7 +7572,7 @@
       <div n="Capp. 172-177" subtype="successioni" type="capitula" xml:id="CS730_div_172-177">
         <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030c.jp2/full/pct:50/0/default.jpg" n="30c" xml:id="CS730_folio_30c"/>
         <fw place="top-right" type="fol"><add hand="unknown">30c</add></fw>
-        <gap extent="8" unit="lines"/>
+        <!--<gap extent="8" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
         <p n="173" xml:id="CS730_p_30c_173">
           <lb n="01" xml:id="CS730_lb_30c_01"/>
@@ -9371,7 +9371,7 @@
               <supplied reason="illegible" resp="leges">t</supplied>
             </damage></w>
           <term ref="#noverca" xml:id="CS730_term_noverca_185" xml:lang="lng">
-            <w>no<lb xml:id="CS730_lb_34a_07"/><gap extent="1" unit="chars"/>
+            <w>no<lb xml:id="CS730_lb_34a_07"/><!--<gap extent="1" unit="chars"/>--><!-- CHECK <gap/> problem -->
               <supplied reason="illegible" resp="leges">v</supplied>ercam</w>
           </term>
           <w>suam</w>
@@ -9726,7 +9726,7 @@
 
         <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034c.jp2/full/pct:50/0/default.jpg" n="34c" xml:id="CS730_folio_34c"/>
         <fw place="top-right" type="fol"><add hand="unknown">34c</add></fw>
-        <gap extent="9" unit="lines"/>
+        <!--<gap extent="9" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
         <p n="187" xml:id="CS730_p_34c_187">
           <lb n="01" xml:id="CS730_lb_34c_01"/>
@@ -9794,7 +9794,7 @@
           <w>cogatur</w>
         </p>
 
-        <gap extent="4" unit="lines"/>
+        <!--<gap extent="4" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
         <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034d.jp2/full/pct:50/0/default.jpg" n="34d" xml:id="CS730_folio_34d"/>
         <fw place="top-left" type="fol"><add hand="unknown">34d</add></fw>
@@ -11500,7 +11500,7 @@
           <!--c'è una tilde?-->
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_041.jp2/full/pct:50/0/default.jpg" n="41" xml:id="CS730_folio_41"/>
           <fw place="top-right" type="fol"><add hand="unknown">41</add></fw>
-          <lb n="" xml:id="CS730_lb_41_01"/>
+          <lb n="01" xml:id="CS730_lb_41_01"/>
           <w>aequa</w>
           <damage>
             <supplied reason="illegible" resp="leges">
@@ -16456,9 +16456,11 @@
           <w>iter</w>
           <w>suum</w>
           <w>post<damage>
-              <supplied reason="illegible" resp="leges">ponens</supplied></damage></w>
-          <lb n="18" xml:id="CS730_lb_62h_18"/>
+              <supplied reason="illegible" resp="leges">ponens</supplied></damage>
+          </w>
           <gap extent="2" unit="lines"/>
+          <lb n="18" xml:id="CS730_lb_62h_18"/>
+          <lb n="19" xml:id="CS730_lb_62h_19"/>
           <!--<w><c corresp="#v">u</c>olens</w>
                     <w>eam</w>
                     <w>lucrari</w>
