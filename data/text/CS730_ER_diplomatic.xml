@@ -9798,7 +9798,7 @@
 
         <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034d.jp2/full/pct:50/0/default.jpg" n="34d" xml:id="CS730_folio_34d"/>
         <fw place="top-left" type="fol"><add hand="unknown">34d</add></fw>
-        <gap extent="9" unit="lines"/>
+        <!--<gap extent="9" unit="lines"/>--><!-- CHECK <gap/> problem -->
         <p n="188" xml:id="CS730_p_055r_188">
           <lb n="01" xml:id="CS730_lb_34d_01"/>
           <w>praesumpturi</w>
