@@ -862,10 +862,10 @@
           <w>qui</w>
           <w>
             <choice>
-              <abbr>dnm</abbr>
-              <expan>dominum</expan>
+              <abbr>d<g ref="#nmacr"/>m</abbr>
+              <expan>d<ex>omi</ex>n<ex>u</ex>m</expan>
             </choice>
-          </w><w>dominum</w>
+          </w>
           <!--unica occorrenza di dnm x dominum, sempre abbreviato con dmn-->
           <w>
             <choice>
