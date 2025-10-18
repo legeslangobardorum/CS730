@@ -505,8 +505,8 @@
             <supplied reason="illegible" resp="leges">dux</supplied>erit</w>
           <w>animae</w>
           <w>suae</w>
-          <w>incurr<lb n="04" xml:id="CS730_lb_02_04"/><gap extent="1" unit="chars"/>
-            <supplied reason="illegible" resp="leges">a</supplied>t</w>
+          <w>incur<lb n="04" xml:id="CS730_lb_02_04"/><gap extent="1" unit="chars"/>
+            <supplied reason="illegible" resp="leges">ra</supplied>t</w>
           <w>periculum</w>
           <w>et</w>
           <w>r<subst>
@@ -765,7 +765,7 @@
           <w>fe<lb n="10" xml:id="CS730_lb_03_10"/>cissit</w>
           <w>tunc</w>
           <w>sit</w>
-          <w>culpabiles</w>
+          <w>culpabil<subst><del rend="overwrite">e</del><add>i</add></subst>s</w>
           <w>sicut</w>
           <lb n="11" xml:id="CS730_lb_03_11"/>
           <w>et</w>
@@ -1054,7 +1054,10 @@
             </choice>
           </w>
           <term ref="#plodraub" xml:id="CS730_term_plodraub_15" xml:lang="lng">
-            <w>plode<lb n="20" xml:id="CS730_lb_04_20"/>rabi</w>
+            <w><choice>
+              <orig>plode<lb n="20" xml:id="CS730_lb_04_20_orig"/>rabi</orig><!-- CHECK abbr sign -->
+              <reg>plod<lb n="20" xml:id="CS730_lb_04_20_reg"/>raub</reg>
+            </choice></w>
           </term>
           <!--c'è un segno di abbr ma non capisco come mai-->
           <w>
@@ -1149,7 +1152,7 @@
               <w>curte</w>
             </supplied>
           </damage>
-          <w><damage>re</damage><lb n="09" xml:id="CS730_lb_05_09"/>gis</w>
+          <w><supplied><damage>re</damage></supplied><lb n="09" xml:id="CS730_lb_05_09"/>gis</w>
           <w>ex<damage agent="reagent" type="colorspot"><supplied reason="illegible" resp="leges"
               >egat</supplied></damage></w>
         </p>
@@ -1239,7 +1242,10 @@
             </choice>
           </w>
           <w>cau<unclear reason="faded">s</unclear>a</w>
-          <w>ficit</w>
+          <w><choice>
+            <orig>ficit</orig>
+            <reg>fecit</reg>
+          </choice></w>
           <w>nam</w>
           <lb n="18" xml:id="CS730_lb_05_18"/>
           <w>non</w>
@@ -1281,7 +1287,10 @@
           </supplied>
           <lb n="02" xml:id="CS730_lb_06_02"/>
           <w>ad</w>
-          <w>nus</w>
+          <w><choice>
+            <orig>nus</orig>
+            <reg>nos</reg>
+          </choice></w>
           <w><c corresp="#v">u</c>en<unclear reason="faded">ire</unclear></w>
           <w><c corresp="#v">u</c>oluer<damage>
               <supplied reason="illegible" resp="leges">it</supplied></damage></w>
@@ -1336,9 +1345,12 @@
           <lb n="08" xml:id="CS730_lb_06_08"/>
           <w>rege</w>
           <w><c corresp="#v">u</c>enire</w>
-          <w>fistinat</w>
-          <w>hone<gap extent="5" unit="chars"/>
-            <supplied reason="illegible" resp="leges">ste</supplied></w>
+          <w><choice>
+            <orig>fistinat</orig>
+            <reg>festinat</reg>
+          </choice></w>
+          <w>hones<gap extent="5" unit="chars"/>
+            <supplied reason="illegible" resp="leges">te</supplied></w>
           <w><supplied reason="illegible" resp="leges">ve</supplied><lb n="09" xml:id="CS730_lb_06_09"/>niat</w>
           <w>et</w>
           <w>nullam</w>
@@ -1351,13 +1363,14 @@
           </w>
           <w><gap extent="3" unit="chars"/>
             <supplied reason="illegible" resp="leges">dam</supplied><lb n="10" xml:id="CS730_lb_06_10"/>num</w>
-          <w>cuicumque</w>
           <w>i<damage>n</damage></w>
           <w>ipso</w>
-          <w>itenere</w>
+          <w><choice>
+            <orig>itenere</orig>
+            <reg>itinere</reg>
+          </choice></w>
           <w>ad</w>
-          <w>reg<gap extent="6" unit="chars"/>
-            <supplied reason="illegible" resp="leges">em</supplied></w>
+          <w>reg<gap extent="6" unit="chars"/><supplied reason="illegible" resp="leges">em</supplied></w>
           <w><supplied reason="illegible" resp="leges">veni</supplied><lb n="11" xml:id="CS730_lb_06_11"/>endum</w>
           <w>
             <choice>
@@ -1674,8 +1687,9 @@
           <supplied reason="illegible" resp="leges">
             <w>ad</w>
             <w>iustitiam</w>
+            <w><c corresp="#v">u</c>igenti</w>
           </supplied>
-          <w><c corresp="#v">u</c>igenti</w> --> <lb n="02" xml:id="CS730_lb_08_02"/>
+          <lb n="02" xml:id="CS730_lb_08_02"/>
           <add hand="unknown" place="margin"><num><w>20</w></num></add>
           <w>
             <choice>
@@ -1885,7 +1899,7 @@
           <w>il<damage>
               <supplied reason="illegible" resp="leges">li</supplied>
             </damage></w>
-          <w>red--><lb n="02" xml:id="CS730_lb_09_02"/>dere</w>
+          <w><supplied>red</supplied><lb n="02" xml:id="CS730_lb_09_02"/>dere</w>
           <w>tunc</w>
           <w>ambulit</w>
           <w>ad</w>
@@ -2147,7 +2161,7 @@
           <label><num><w>XXVI<damage>
                   <supplied reason="illegible" resp="leges">III</supplied>
                 </damage></w></num></label>
-          <w><hi rend="decorated">S</hi>i</w>
+          <w><supplied reason="illegible"><hi rend="decorated">S</hi></supplied>i</w>
           <w>quis</w>
           <w>ser<c corresp="#v">u</c>um</w>
           <w>alienum</w>
@@ -2237,7 +2251,10 @@
           <w>qui</w>
           <w>hominem</w>
           <lb n="10" xml:id="CS730_lb_10_10"/>
-          <w>sempleciter</w>
+          <w><choice>
+            <orig>sempleciter</orig>
+            <reg>sempliciter</reg>
+          </choice></w>
           <w><c corresp="#v">u</c>iam</w>
           <w>ambolantem</w>
           <lb n="11" xml:id="CS730_lb_10_11"/>
