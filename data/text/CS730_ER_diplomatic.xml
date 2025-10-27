@@ -2505,7 +2505,10 @@
             </choice>
           </w>
           <w>si</w>
-          <w>ince<lb n="09" xml:id="CS730_lb_11_09"/>ta<c corresp="#v">u</c>erit</w>
+          <w><choice>
+            <orig>ince<lb n="09" xml:id="CS730_lb_11_09_orig"/>ta<c corresp="#v">u</c>erit</orig>
+            <reg>inci<lb n="09" xml:id="CS730_lb_11_09_reg"/>ta<c corresp="#v">u</c>erit</reg>
+          </choice></w>
           <w>et</w>
           <w>non</w>
           <w>percusserit</w>
@@ -2667,10 +2670,10 @@
           <add hand="unknown" place="margin"><num><w>39</w></num></add>
           <lb n="05" xml:id="CS730_lb_12_05"/>
           <w>scandalum</w>
-          <w>incetar<subst>
-              <del rend="overwrite">s</del>
-              <add>e</add>
-            </subst></w>
+          <w><choice>
+            <orig>incetar<subst><del rend="overwrite">s</del><add>e</add></subst></orig>
+            <reg>incitare</reg>
+          </choice></w>
           <w>praesump<lb n="06" xml:id="CS730_lb_12_06"/>serit</w>
           <w>et</w>
           <w>non</w>
@@ -2744,7 +2747,7 @@
               <abbr><am>conp</am></abbr>
               <expan>conp<ex>onat</ex></expan>
             </choice>
-          </w>
+          </w><!-- CHECK manca la cifra -->
         </p>
 
         <p n="41" xml:id="CS730_p_12_41">
@@ -2868,7 +2871,10 @@
           <w>eum</w>
           <w>inparatum</w>
           <lb n="05" xml:id="CS730_lb_13_05"/>
-          <w>simpleciter</w>
+          <w><choice>
+            <orig>simpleciter</orig>
+            <reg>simpliciter</reg>
+          </choice></w>
           <w>ambolantem</w>
           <w>
             <choice>
@@ -3375,6 +3381,7 @@
           <w>ossos</w>
           <w>tales</w>
           <w>in<c corresp="#v">u</c>e<lb n="12" xml:id="CS730_lb_15_12"/>niatur</w>
+          <w>qui</w>
           <w>a</w>
           <w>pedes</w>
           <w>duodicem</w>
@@ -4313,7 +4320,10 @@
           <add hand="unknown" place="margin"><num><w>78</w></num></add>
           <lb n="16" xml:id="CS730_lb_20_16"/>
           <w>ser<c corresp="#v">u</c>um</w>
-          <w>minesterialem</w>
+          <w><choice>
+            <orig>minesterialem</orig>
+            <reg>ministerialem</reg>
+          </choice></w>
           <lb n="17" xml:id="CS730_lb_20_17"/>
           <w>placa<c corresp="#v">u</c>erit</w>
           <w>in</w>
@@ -4643,7 +4653,10 @@
             </choice>
           </w>
           <w>ser<c corresp="#v">u</c>um</w>
-          <w>minesteriali</w>
+          <w><choice>
+            <orig>minesteriali</orig>
+            <reg>ministeriali</reg>
+          </choice></w>
           <lb n="12" xml:id="CS730_lb_22_12"/>
           <w>coxa</w>
           <w>ruperit</w>
@@ -4771,7 +4784,10 @@
           </w>
           <w>ser<add hand="unknown" place="margin"><num><w>97</w></num></add><lb n="05" xml:id="CS730_lb_23_05"/><c
               corresp="#v">u</c>um</w>
-          <w>minesteriali</w>
+          <w><choice>
+            <orig>minesteriali</orig>
+            <reg>ministeriali</reg>
+          </choice></w>
           <w>secundum</w>
           <w>di<lb n="06" xml:id="CS730_lb_23_06"/>gitum</w>
           <w>excusserit</w>
@@ -5997,7 +6013,10 @@
             <w>alio</w>
           </unclear>
           <w><c corresp="#v">u</c>ero</w>
-          <w>minesteriale</w>
+          <w><choice>
+            <orig>minesteriale</orig>
+            <reg>ministeriale</reg>
+          </choice></w>
           <w>qui</w>
           <add hand="unknown" place="margin"><num><w>131</w></num></add>
           <lb n="05" xml:id="CS730_lb_27_05"/>
@@ -6007,7 +6026,10 @@
           <w>tamen</w>
           <lb n="06" xml:id="CS730_lb_27_06"/>
           <w>nomen</w>
-          <w>minesteriale</w>
+          <w><choice>
+            <orig>minesteriale</orig>
+            <reg>ministeriale</reg>
+          </choice></w>
           <w>habet</w>
           <w>si</w>
           <lb n="07" xml:id="CS730_lb_27_07"/>
