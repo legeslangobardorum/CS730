@@ -248,6 +248,20 @@
           <mapping type="normalized">y</mapping>
         </char>
 
+        <char xml:id="lhighstrok">
+          <unicodeProp name="Name" value="LATIN SMALL LETTER L WITH HIGH STROKE"/>
+          <mapping type="codepoint">U+A749</mapping>
+          <mapping type="diplomatic">ꝉ</mapping>
+          <mapping type="normalized">l</mapping>
+        </char>
+        
+        <char xml:id="lmacr">
+          <unicodeProp name="Name" value="LATIN SMALL LETTER L WITH MACRON"/>
+          <mapping subtype="composed" type="codepoint">U+006C + U+0304</mapping>
+          <mapping type="diplomatic">l̄</mapping>
+          <mapping type="normalized">l</mapping>
+        </char>
+        
         <char xml:id="nmacr">
           <unicodeProp name="Name" value="LATIN SMALL LETTER N WITH MACRON"/>
           <mapping subtype="composed" type="codepoint">U+006E + U+0304</mapping>
@@ -316,6 +330,7 @@
     - frequentissime le abbreviazioni con segno su più lettere es. conp, sold
     - molti brani poco leggibili privi di <unclear> e/o <damage>
     - niente testo per 47?
+    - sostituiti tutti i <am><g ref="#twodot"/></am> con <am>:</am>
 
     -->
 
@@ -563,8 +578,10 @@
             </choice>
           </w>
           <w>regi</w>
-          <w>solidus</w>
-          <!--sol non sold-->
+          <w><choice>
+            <abbr>so<am><g ref="#lhighstrok"/></am></abbr>
+            <expan>sol<ex>idos</ex></expan>
+          </choice></w>
           <w>
             <choice>
               <abbr><am>noning</am></abbr>
@@ -1322,9 +1339,8 @@
               </choice>
             </w>
             <w>iniuria</w>
-          </unclear>
-          <!-- non capisco cosa scrive qui!!!!! 
-					in iecere????-->
+            <w>iniecere</w>
+         </unclear>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
@@ -1427,7 +1443,7 @@
           </w>
           <w>
             <choice>
-              <abbr>quemcumq<am><g ref="#twodot"/></am></abbr>
+              <abbr>quemcumq<am>:</am></abbr>
               <expan>quemcumq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -1446,7 +1462,7 @@
           </w>
           <w>
             <choice>
-              <abbr>qualemcumq<am><g ref="#twodot"/></am></abbr>
+              <abbr>qualemcumq<am>:</am></abbr>
               <expan>qualemcumq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -1560,9 +1576,7 @@
             </w>
           </supplied>
           <w>
-            <choice>
-              <abbr><am>sold</am></abbr>
-              <expan>sol<ex>i</ex>d<ex>os</ex></expan>
+            <supplied>s</supplied><choice><abbr><am>old</am></abbr><expan>ol<ex>i</ex>d<ex>os</ex></expan>
             </choice>
           </w>
           <w>
@@ -6015,7 +6029,7 @@
           <w>et</w>
           <w>
             <choice>
-              <abbr>quinq<am><g ref="#twodot"/></am></abbr>
+              <abbr>quinq<am>:</am></abbr>
               <expan>quinq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -8162,7 +8176,7 @@
           <w>suam</w>
           <w>
             <choice>
-              <abbr>cuicumq<am><g ref="#twodot"/></am></abbr>
+              <abbr>cuicumq<am>:</am></abbr>
               <expan>cuicumq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -14314,7 +14328,7 @@
           <w>et</w>
           <w>
             <choice>
-              <abbr>quinq<am><g ref="#twodot"/></am></abbr>
+              <abbr>quinq<am>:</am></abbr>
               <expan>quinq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -15407,7 +15421,7 @@
           <w>fac<unclear reason="faded">iat</unclear></w>
           <w>
             <choice>
-              <abbr>usq<am><g ref="#twodot"/></am></abbr>
+              <abbr>usq<am>:</am></abbr>
               <expan>usq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -15701,7 +15715,7 @@
           </term>
           <w>
             <choice>
-              <abbr>usq<am><g ref="#twodot"/></am></abbr>
+              <abbr>usq<am>:</am></abbr>
               <expan>usq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -16768,7 +16782,7 @@
             <w>pro</w>
             <w>
               <choice>
-                <abbr>quacumq<am><g ref="#twodot"/></am></abbr>
+                <abbr>quacumq<am>:</am></abbr>
                 <expan>quacumq<ex>ue</ex></expan>
               </choice>
             </w>
@@ -17138,7 +17152,7 @@
           <w>patri</w>
           <w>
             <choice>
-              <abbr>neq<am><g ref="#twodot"/></am></abbr>
+              <abbr>neq<am>:</am></abbr>
               <expan>neq<ex>ue</ex></expan>
             </choice>
           </w>
@@ -17727,7 +17741,7 @@
           <w>suas</w>
           <w>
             <choice>
-              <abbr>cuicumq<am><g ref="#twodot"/></am></abbr>
+              <abbr>cuicumq<am>:</am></abbr>
               <expan>cuicumq<ex>ue</ex></expan>
             </choice>
           </w>
