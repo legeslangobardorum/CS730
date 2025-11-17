@@ -4877,7 +4877,10 @@
           <lb n="13" type="rubric" xml:id="CS730_lb_23_13"/>
           <label><num><w>CII</w></num></label>
           <w><hi>D</hi>e</w>
-          <w>placa</w>
+          <w><choice>
+            <orig>placa</orig>
+            <reg>plaga</reg>
+          </choice></w>
           <w>intra</w>
           <w>capso</w>
           <w>si</w>
@@ -4893,7 +4896,10 @@
           </w>
           <w>ser<c corresp="#v">u</c>um</w>
           <w>ministe<lb n="15" xml:id="CS730_lb_23_15"/>riali</w>
-          <w>placa</w>
+          <w><choice>
+            <orig>placa</orig>
+            <reg>plaga</reg>
+          </choice></w>
           <w>intra</w>
           <w>capso</w>
           <w>
@@ -5012,7 +5018,10 @@
           <w>si</w>
           <lb n="04" xml:id="CS730_lb_24_04"/>
           <w>sic</w>
-          <w>placa<c corresp="#v">u</c>erit</w>
+          <w><choice>
+            <orig>placa<c corresp="#v">u</c>erit</orig>
+            <reg>plaga<c corresp="#v">u</c>erit</reg>
+          </choice></w>
           <w>et</w>
           <w>non</w>
           <w>
@@ -5040,7 +5049,7 @@
             <w>SERV<c corresp="#ucap">V</c>S</w>
             <w>R<c corresp="#ucap">V</c>STICAN<c corresp="#ucap">V</c>S</w>
           </seg>
-          <add hand="unknown" place="margin"><num><w>10<!--non si vede il numero dopo--></w></num></add>
+          <add hand="unknown" place="margin"><num><w>10<damage><unclear>3</unclear></damage></w></num></add>
           <lb n="07" xml:id="CS730_lb_24_07"/>
           <w>si</w>
           <w>quis</w>
@@ -5053,7 +5062,10 @@
           </w>
           <lb n="08" xml:id="CS730_lb_24_08"/>
           <w>alienum</w>
-          <w>placa</w>
+          <w><choice>
+            <orig>placa</orig>
+            <reg>plaga</reg>
+          </choice></w>
           <w>in</w>
           <w>caput</w>
           <w>
@@ -5070,7 +5082,10 @@
           <w>pro</w>
           <w>una</w>
           <lb n="10" xml:id="CS730_lb_24_10"/>
-          <w>placa</w>
+          <w><choice>
+            <orig>placa</orig>
+            <reg>plaga</reg>
+          </choice></w>
           <w>dit</w>
           <w>
             <choice>
@@ -5087,7 +5102,10 @@
           <w>de</w>
           <!--potrebbe essere ds-->
           <w>duas</w>
-          <w>placas</w>
+          <w><choice>
+            <orig>placas</orig>
+            <reg>plagas</reg>
+          </choice></w>
           <lb n="11" xml:id="CS730_lb_24_11"/>
           <w>dit</w>
           <w>
@@ -5112,7 +5130,10 @@
           <w><c corresp="#v">u</c>ero</w>
           <w>amplius</w>
           <lb n="13" xml:id="CS730_lb_24_13"/>
-          <w>placas</w>
+          <w><choice>
+            <orig>placas</orig>
+            <reg>plagas</reg>
+          </choice></w>
           <w>capites</w>
           <w>fueri<g ref="#ntlig"/></w>
           <w>non</w>
@@ -5159,7 +5180,10 @@
           <lb n="17" type="rubric" xml:id="CS730_lb_24_17"/>
           <label><num><w>CV</w></num></label>
           <w><hi rend="cap">D</hi>e</w>
-          <w>placa</w>
+          <w><choice>
+            <orig>placa</orig>
+            <reg>plaga</reg>
+          </choice></w>
           <w>in</w>
           <w>faciae</w>
           <w>si</w>
@@ -5171,7 +5195,10 @@
           <lb n="18" xml:id="CS730_lb_24_18"/>
           <w>alienum</w>
           <w>rusticanum</w>
-          <w>placam</w>
+          <w><choice>
+            <orig>placam</orig>
+            <reg>plagam</reg>
+          </choice></w>
           <w>in</w>
           <w>fa<lb n="19" xml:id="CS730_lb_24_19"/>ciae</w>
           <w>
@@ -5222,7 +5249,10 @@
           <lb n="04" xml:id="CS730_lb_25_04"/>
           <w>si</w>
           <w>eum</w>
-          <w>occidessit</w>
+          <w><choice>
+            <orig>occidessit</orig>
+            <reg>occidissit</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr>d<am><g ref="#nmacr"/></am>i</abbr>
@@ -5476,6 +5506,7 @@
           </w>
           <w>coxa</w>
           <w>transforata</w>
+          <add hand="unknown" place="margin"><num><w>110</w></num></add>
           <lb n="04" xml:id="CS730_lb_26_04"/>
           <gap extent="4" unit="chars"/>
           <supplied reason="illegible" resp="leges"><w>si</w></supplied>
@@ -5514,7 +5545,10 @@
           <w>duo</w>
           <w>si</w>
           <w>autem</w>
-          <w>placam</w>
+          <w><choice>
+            <orig>placam</orig>
+            <reg>plagam</reg>
+          </choice></w>
           <lb n="07" xml:id="CS730_lb_26_07"/>
           <w><gap extent="4" unit="chars"/>
             <supplied reason="illegible" resp="leges">fece</supplied>rit</w>
@@ -5553,11 +5587,17 @@
           <gap extent="7" unit="chars"/>
           <supplied reason="illegible" resp="leges"><label><num><w>CXII</w></num></label></supplied>
           <w><hi rend="cap">D</hi>e</w>
-          <w>placa</w>
+          <w><choice>
+            <orig>placa</orig>
+            <reg>plaga</reg>
+          </choice></w>
           <w>qu<add hand="scribe_1" place="above">a</add>e</w>
           <w>in</w>
           <w>capso</w>
-          <w>fiit</w>
+          <w><choice>
+            <orig>fiit</orig>
+            <reg>fiet</reg>
+          </choice></w>
           <w>si</w>
           <w>quis</w>
           <add hand="unknown" place="margin"><num><w>111</w></num></add>
@@ -5569,7 +5609,10 @@
           <w>in<lb n="12" xml:id="CS730_lb_26_12"/><gap extent="3" unit="chars"/>
             <supplied reason="illegible" resp="leges">tra</supplied></w>
           <w>capso</w>
-          <w>placa<c corresp="#v">u</c>erit</w>
+          <w><choice>
+            <orig>placa<c corresp="#v">u</c>erit</orig>
+            <reg>plaga<c corresp="#v">u</c>erit</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am>conp</am></abbr>
@@ -5657,7 +5700,7 @@
           <w>et</w>
           <w>
             <choice>
-              <orig>mercidis</orig>
+              <orig>mercides</orig>
               <reg resp="leges">mercedes</reg>
             </choice>
           </w>
@@ -5689,6 +5732,7 @@
               <expan>sanitate<ex>m</ex></expan>
             </choice>
           </w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_026a.jp2/full/pct:30/0/default.jpg" n="26a" xml:id="CS730_folio_26a"/>
           <fw place="top-right" type="fol"><add hand="unknown">26a</add></fw>
           <lb n="01" xml:id="CS730_lb_26a_01"/>
@@ -5730,6 +5774,8 @@
                 <expan>servu<ex>m</ex></expan>
               </choice>
             </w></unclear>
+          <!--<add hand="unknown" place="margin"><num><w>113</w></num></add> CHECK -->
+          <!-- CHECK missing margin note -->
           <lb n="03" xml:id="CS730_lb_26a_03"/>
           <w>alienum</w>
           <w>rusticanum</w>
@@ -5831,6 +5877,7 @@
           <lb n="11" xml:id="CS730_lb_26a_11"/>
           <label><num><w>CXVII</w></num></label>
           <w><hi rend="cap">S</hi>i</w>
+          <!--<add hand="unknown" place="margin"><num><w>116</w></num></add> CHECK -->
         </p>
 
         <gap unit="lines"/>
@@ -5956,6 +6003,7 @@
           <w>digit<unclear reason="faded">o</unclear></w>
           <gap extent="10" unit="chars"/>
           <supplied reason="illegible" resp="leges"><w>excusserit</w></supplied>
+          <lb n="10" xml:id="CS730_lb_26b_10"/>
           <w>
             <choice>
               <abbr><am><damage><supplied reason="illegible" resp="leges">c</supplied></damage>onp</am></abbr>
@@ -5978,10 +6026,16 @@
           <w>quis</w>
           <w>ser<c corresp="v">u</c>um</w>
           <w>alienum</w>
-          <w>mines<add hand="unknown" place="margin"><num><w>130</w></num></add><lb n="02" xml:id="CS730_lb_27_02"
-            />terialem</w>
+          <w><choice>
+            <orig>mines<lb n="02" xml:id="CS730_lb_27_02_orig"/>terialem</orig>
+            <reg>minis<lb n="02" xml:id="CS730_lb_27_02_reg"/>terialem</reg>
+          </choice></w>
+          <add hand="unknown" place="margin"><num><w>130</w></num></add>
           <w>occiderit</w>
-          <w>prabatum</w>
+          <w><choice>
+            <sic>prabatum</sic>
+            <corr resp="leges">probatum</corr>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
@@ -6098,7 +6152,10 @@
           <w>ser<add hand="unknown" place="margin"><num><w>133</w></num></add><lb n="12" xml:id="CS730_lb_27_12"/><c
               corresp="#v">u</c>um</w>
           <w>bo<c corresp="#v">u</c>ulco</w>
-          <w>occiserit</w>
+          <w><choice>
+            <orig>occiserit</orig>
+            <reg>occiderit</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am>conp</am></abbr>
@@ -6156,7 +6213,10 @@
             </choice>
           </w>
           <lb n="16" xml:id="CS730_lb_27_16"/>
-          <space/><w>occiserit</w>
+          <space/><w><choice>
+            <orig>occiserit</orig>
+            <reg>occiderit</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am>conp</am></abbr>
@@ -6183,8 +6243,14 @@
           <w>por<add hand="unknown" place="margin"><num><w>135</w></num></add><lb n="18" xml:id="CS730_lb_27_18"
             />carium</w>
           <w>alienum</w>
-          <w>occiserit</w>
-          <w>mages<lb n="19" xml:id="CS730_lb_27_19"/>trum</w>
+          <w><choice>
+            <orig>occiserit</orig>
+            <reg>occiderit</reg>
+          </choice></w>
+          <w><choice>
+            <orig>mages<lb n="19" xml:id="CS730_lb_27_19_orig"/>trum</orig>
+            <reg>magis<lb n="19" xml:id="CS730_lb_27_19_reg"/>trum</reg>
+          </choice></w>
           <w>tamen</w>
           <w>illum</w>
           <w>qui</w>
@@ -6245,8 +6311,10 @@
               <expan>conp<ex>onat</ex></expan>
             </choice>
           </w>
-          <w>solidos</w>
-          <!--sol invece di sold-->
+          <w><choice>
+            <abbr><am>sol</am></abbr>
+            <expan>sol<ex>idos</ex></expan>
+          </choice></w>
           <w><c corresp="#v">u</c>iginti</w>
           <w>et</w>
           <w>
@@ -6390,14 +6458,17 @@
           <w>communiter</w>
           <w>
             <choice>
-              <abbr>incis<am><g ref="#umacr"/></am></abbr>
-              <expan>incisu<ex>m</ex></expan>
+              <sic><abbr>incis<am><g ref="#umacr"/></am></abbr></sic>
+              <corr>inciso</corr>
             </choice>
           </w>
           <add hand="unknown" place="margin"><num><w>138</w></num></add>
           <lb n="20" xml:id="CS730_lb_28_20"/>
           <w>homineque</w>
-          <w>hocciso</w>
+          <w><choice>
+            <sic>hocciso</sic>
+            <corr>occiso</corr>
+          </choice></w>
           <w>si</w>
           <w>duo</w>
           <w>
@@ -6445,7 +6516,10 @@
           </w>
           <w>quolibet</w>
           <w>damnum</w>
-          <w>fice<lb n="05" xml:id="CS730_lb_28a_05"/>rint</w>
+          <w><choice>
+            <orig>fice<lb n="05" xml:id="CS730_lb_28a_05_orig"/>rint</orig>
+            <reg>fece<lb n="05" xml:id="CS730_lb_28a_05_reg"/>rint</reg>
+          </choice></w>
           <w>tunc</w>
           <w>incidentes</w>
           <w>arborem</w>
@@ -6567,6 +6641,7 @@
           </w>
           <w>mulier</w>
           <w><c corresp="#v">u</c>enenum</w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028b.jp2/full/pct:30/0/default.jpg" n="28b" xml:id="CS730_folio_28b"/>
           <fw place="top-left" type="fol"><add hand="unknown">28b</add></fw>
           <lb n="01" xml:id="CS730_lb_28b_01"/>
@@ -6621,8 +6696,10 @@
           <w><c corresp="#v">u</c>enenum</w>
           <add hand="unknown" place="margin"><num><w>140</w></num></add>
           <lb n="06" xml:id="CS730_lb_28b_06"/>
-          <w><gap extent="1" unit="chars"/>
-            <supplied reason="illegible" resp="leges">d</supplied>edirit</w>
+          <w><choice>
+            <orig><gap extent="1" unit="chars"/><supplied reason="illegible" resp="leges">d</supplied>edirit</orig>
+            <reg><gap extent="1" unit="chars"/><supplied reason="illegible" resp="leges">d</supplied>ederit</reg>
+          </choice></w>
           <w>ad</w>
           <w>bi<c corresp="#v">u</c>endum</w>
           <w>et</w>
@@ -6736,7 +6813,10 @@
           <lb n="17" xml:id="CS730_lb_28b_17"/>
           <w><gap extent="1" unit="chars"/>
             <supplied reason="illegible" resp="leges">a</supplied>lecui</w>
-          <w>dedirit</w>
+          <w><choice>
+            <orig>dedirit</orig>
+            <reg>dederit</reg>
+          </choice></w>
           <w>ad</w>
           <w>bi<c corresp="#v">u</c>endum</w>
           <w>et</w>
@@ -6842,14 +6922,20 @@
           <lb n="08" type="rubric" xml:id="CS730_lb_28c_08"/>
           <label><num><w>CXLVIII</w></num></label>
           <w><hi rend="cap">D</hi>e</w>
-          <w>rogatus</w>
+          <w><choice>
+            <orig>rogatus</orig>
+            <reg>rogatos</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
               <expan>a<ex>ut</ex></expan>
             </choice>
           </w>
-          <w>conductus</w>
+          <w><choice>
+            <orig>conductus</orig>
+            <reg>conductos</reg>
+          </choice></w>
           <w>ma<lb n="09" xml:id="CS730_lb_28c_09"/>gistros</w>
           <w>si</w>
           <w>quis</w>
@@ -6964,7 +7050,10 @@
             </choice>
           </w>
           <w>in</w>
-          <w>tre<lb n="07" xml:id="CS730_lb_28d_07"/>plum</w>
+          <w><choice>
+            <orig>tre<lb n="07" xml:id="CS730_lb_28d_07_orig"/>plum</orig>
+            <reg>tre<lb n="07" xml:id="CS730_lb_28d_07_reg"/>blum</reg>
+          </choice></w>
           <w>id</w>
           <w>
             <choice>
@@ -6979,7 +7068,10 @@
           <w>praetii</w>
           <w>cum</w>
           <w>omni</w>
-          <w>intrense<lb n="09" xml:id="CS730_lb_28d_09"/>cus</w>
+          <w><choice>
+            <orig>intrense<lb n="09" xml:id="CS730_lb_28d_09_orig"/>cus</orig>
+            <reg>intrinse<lb n="09" xml:id="CS730_lb_28d_09_reg"/>cus</reg>
+          </choice></w>
           <w>quidquid </w>
           <w>intus</w>
           <w>crematum</w>
@@ -6993,7 +7085,10 @@
           <w>quod</w>
           <w><c corresp="#v">u</c>icini</w>
           <w>bon<unclear reason="faded">ae</unclear></w>
-          <w><unclear reason="faded">fedei</unclear></w>
+          <w><unclear reason="faded"><choice><!-- CHECK first case of a <choice> inside <unclear> -->
+            <orig>fedei</orig>
+            <reg>fidei</reg>
+          </choice></unclear></w>
           <w>homi<lb n="11" xml:id="CS730_lb_28d_11"/>nes</w>
           <w>adp<damage><supplied reason="illegible" resp="leges">r</supplied>
             </damage>aetia<c corresp="#v">u</c>erint</w>
@@ -7034,6 +7129,7 @@
           <lb n="20" xml:id="CS730_lb_28d_20"/>
           <w>foculare</w>
           <w>portatum</w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_029.jp2/full/pct:30/0/default.jpg" n="29" xml:id="CS730_folio_29"/>
           <fw place="top-right" type="fol"><add hand="unknown">29</add></fw>
           <lb n="01" xml:id="CS730_lb_29_01"/>
@@ -7138,9 +7234,14 @@
           <w>focum</w>
           <w>foris</w>
           <w>in</w>
-          <w>itenere</w>
-          <w>fi<add hand="unknown" place="margin"><num><w>148</w></num></add><lb n="11" xml:id="CS730_lb_29_11"
-            />cerit</w>
+          <w><choice>
+            <orig>itenere</orig>
+            <reg>itinere</reg>
+          </choice></w>
+          <w><choice>
+            <orig>fi<lb n="11" xml:id="CS730_lb_29_11_orig"/>cerit</orig>
+            <reg>fe<lb n="11" xml:id="CS730_lb_29_11_reg"/>cerit</reg>
+          </choice></w><add hand="unknown" place="margin"><num><w>148</w></num></add>
           <w>antequam</w>
           <w>egrediatur</w>
           <lb n="12" xml:id="CS730_lb_29_12"/>
@@ -7214,7 +7315,10 @@
           <w>si</w>
           <w>tamen</w>
           <w>post</w>
-          <w>relectum</w>
+          <w><choice>
+            <orig>relectum</orig>
+            <reg>relictum</reg>
+          </choice></w>
           <w>foco</w>
           <w>qua</w>
           <lb n="20" xml:id="CS730_lb_29_20"/>
@@ -7347,7 +7451,10 @@
             <supplied reason="illegible" resp="leges">
               <w>De</w>
               <w>molino</w>
-              <w>cappellato</w>
+              <w><choice>
+                <orig>cappellato</orig>
+                <reg>capellato</reg>
+              </choice></w>
               <w>si</w>
             </supplied>
           </damage>
