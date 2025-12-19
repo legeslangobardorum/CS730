@@ -13833,11 +13833,15 @@
           </w>
           <w>terminum</w>
           <w>posuit</w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_053.jp2/full/pct:30/0/default.jpg" n="53" xml:id="CS730_folio_53"/>
           <lb n="01" xml:id="CS730_lb_53_01"/>
           <w>et</w>
           <w>sine</w>
-          <w>debetum</w>
+          <w><choice>
+            <orig>debetum</orig>
+            <reg>debitum</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
@@ -13882,7 +13886,10 @@
           <w>suam</w>
           <w>liberos</w>
           <lb n="06" xml:id="CS730_lb_53_06"/>
-          <w>dimettere</w>
+          <w><choice>
+            <orig>dimettere</orig>
+            <reg>dimittere</reg>
+          </choice></w>
           <w><c corresp="#v">u</c>oluerit</w>
           <w>sit</w>
           <w>licen<lb n="07" xml:id="CS730_lb_53_07"/>tia</w>
@@ -13975,6 +13982,7 @@
           <w>et</w>
           <w>sic</w>
           <!-- e <w>dicat</w>?-->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_054.jp2/full/pct:30/0/default.jpg" n="54" xml:id="CS730_folio_54"/>
           <lb n="01" xml:id="CS730_lb_54_01"/>
           <w>de</w>
@@ -14024,6 +14032,7 @@
           <w>potes<lb n="08" xml:id="CS730_lb_54_08"/>tatem</w>
           <w>requirendi</w>
           <w>et</w>
+          <w>si</w>
           <w>sine</w>
           <w>he<lb n="09" xml:id="CS730_lb_54_09"/>redes</w>
           <w>legetimus</w>
@@ -14086,7 +14095,10 @@
             <w><c corresp="#v">u</c>otum</w>
             <w>regis</w>
           </gloss>
-          <w>demittetur</w>
+          <w><choice>
+            <orig>demittetur</orig>
+            <reg>demittitur</reg>
+          </choice></w>
           <w>ip<lb n="15" xml:id="CS730_lb_54_15"/>sa</w>
           <w>lege</w>
           <w><c corresp="#v">u</c>i<c corresp="#v">u</c>at</w>
@@ -14110,10 +14122,10 @@
           <term ref="#fulcfree" xml:id="CS730_term_fulfree_229" xml:lang="lng">
             <w>fulcfree</w>
           </term>
-          <w>feci<subst>
-              <del rend="overwrite">t</del>
-              <add>r</add>
-            </subst>it</w>
+          <w><choice>
+            <orig>feci<subst><del rend="overwrite">t</del><add>r</add></subst>it</orig>
+            <reg>fecerit</reg>
+          </choice></w>
           <add hand="unknown" place="margin"><num><w>226</w></num></add>
           <lb n="18" xml:id="CS730_lb_54_18"/>
           <w>et</w>
@@ -14124,6 +14136,7 @@
             <orig>dedirit</orig>
             <reg>dederit</reg>
           </choice></w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_055.jp2/full/pct:30/0/default.jpg" n="55" xml:id="CS730_folio_55"/>
           <fw place="top-right" type="fol"><add hand="unknown">55</add></fw>
           <lb n="01" xml:id="CS730_lb_55_01"/>
@@ -14209,7 +14222,10 @@
           <lb n="08" xml:id="CS730_lb_55_08"/>
           <w>non</w>
           <w>demiserit</w>
-          <w>patronus</w>
+          <w><choice>
+            <orig>patrunus</orig>
+            <reg>patronus</reg>
+          </choice></w>
           <w>suc<lb n="09" xml:id="CS730_lb_55_09"/>cidat</w>
           <w>sicut</w>
           <w>supter</w>
@@ -14297,6 +14313,7 @@
               <reg resp="leges">fecerit</reg>
             </choice>
           </w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_056.jp2/full/pct:30/0/default.jpg" n="56" xml:id="CS730_folio_56"/>
           <fw place="top-left" type="fol"><add hand="unknown">56</add></fw>
           <lb n="01" xml:id="CS730_lb_56_01"/>
@@ -14415,7 +14432,10 @@
           <lb n="15" xml:id="CS730_lb_56_15"/>
           <w>de</w>
           <w>res</w>
-          <w>benefacturi</w>
+          <w><choice>
+            <orig>benefacturi</orig>
+            <reg>benefactori</reg>
+          </choice></w>
           <w>seu</w>
           <w>
             <choice>
@@ -14445,7 +14465,10 @@
             </choice>
           </w>
           <w>ipsum</w>
-          <w>patru<lb n="18" xml:id="CS730_lb_56_18"/>num</w>
+          <w><choice>
+            <orig>patru<lb n="18" xml:id="CS730_lb_56_18_orig"/>num</orig>
+            <reg>patro<lb n="18" xml:id="CS730_lb_56_18_reg"/>num</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
@@ -14460,7 +14483,14 @@
           <w>si</w>
           <w>alequid</w>
           <w>in</w>
-          <w>casindio</w>
+          <term ref="#gasindium" xml:lang="lng"><!-- RRDT added 202512 -->
+            <w>
+              <choice>
+                <orig>casindio</orig>
+                <reg>gasindio</reg>
+              </choice>
+            </w>
+          </term>
           <lb n="20" xml:id="CS730_lb_56_20"/>
           <w>duces</w>
           <w>
@@ -14510,10 +14540,9 @@
           <lb n="09" type="rubric" xml:id="CS730_lb_57_09"/>
           <label><num><w>CCXXXII</w></num></label>
           <w><hi rend="decorated">O</hi>mnis</w>
-          <w>liber<gap extent="10" unit="chars"/>
-            <supplied reason="illegible" resp="leges">ti</supplied></w>
-          <supplied reason="illegible" resp="leges"><w>qui</w></supplied>
-          <supplied reason="illegible" resp="leges"><w>a</w></supplied>
+          <w>liber<gap extent="10" unit="chars"/><supplied reason="illegible" resp="leges">ti</supplied></w>
+          <supplied reason="illegible" resp="leges"><w>qui</w>
+            <w>a</w></supplied>
           <w><supplied reason="illegible" resp="leges">domi</supplied><lb n="10" xml:id="CS730_lb_57_10"/>nis</w>
           <w>suis</w>
           <gap extent="11" unit="chars"/><supplied reason="illegible" resp="leges"><w>langobardis</w></supplied>
@@ -14521,33 +14550,34 @@
           <w>libertate<damage>
               <supplied reason="illegible" resp="leges">m</supplied>
             </damage></w>
-          <w>meru<damage>
-              <supplied reason="illegible" resp="leges">e</supplied>
-            </damage>rint</w>
+          <w>meru<damage><supplied reason="illegible" resp="leges">e</supplied><lb n="12" xml:id="CS730_lb_57_12"/></damage>rint</w>
           <w>legebus</w>
           <w>dominorum</w>
           <w>et</w>
-          <lb n="12" xml:id="CS730_lb_57_12"/>
+          <lb n="13" xml:id="CS730_lb_57_13"/>
           <w>benefacturibus</w>
           <w>suis</w>
           <w><c corresp="#v">u</c>i<c corresp="#v">u</c>ere</w>
-          <lb n="13" xml:id="CS730_lb_57_13"/>
+          <lb n="14" xml:id="CS730_lb_57_14"/>
           <w>debeant</w>
           <w>secundum</w>
           <w>qualiter</w>
-          <lb n="14" xml:id="CS730_lb_57_14"/>
+          <lb n="15" xml:id="CS730_lb_57_15"/>
           <w>a</w>
-          <w>domenis</w>
+          <w><choice>
+            <orig>domenis</orig>
+            <reg>dominis</reg>
+          </choice></w>
           <w>suis</w>
           <w>propriis</w>
           <w>eis</w>
-          <lb n="15" xml:id="CS730_lb_57_15"/>
+          <lb n="16" xml:id="CS730_lb_57_16"/>
           <w>consensum</w>
           <w>fuerit</w>
         </p>
 
         <p n="233" xml:id="CS730_p_57_233">
-          <lb n="16" xml:id="CS730_lb_57_16"/>
+          <lb n="17" xml:id="CS730_lb_57_17"/>
           <label><num><w>CCXXXIII</w></num></label>
           <w><hi rend="cap">D</hi>e</w>
           <w>
@@ -14562,15 +14592,15 @@
           <w>
             <choice>
               <abbr><damage><supplied reason="illegible" resp="leges"><c corresp="#v">u</c>indi</supplied></damage>
-                <lb n="17" xml:id="CS730_lb_57_17_abbr"/>tionib<am><g ref="#rcomma"/></am></abbr>
+                <lb n="18" xml:id="CS730_lb_57_18_abbr"/>tionib<am><g ref="#rcomma"/></am></abbr>
               <expan><damage><supplied reason="illegible" resp="leges"><c corresp="#v">u</c>indi</supplied></damage>
-                <lb n="17" xml:id="CS730_lb_57_17_expan"/>tionib<ex>us</ex></expan>
+                <lb n="18" xml:id="CS730_lb_57_18_expan"/>tionib<ex>us</ex></expan>
             </choice>
           </w>
           <w>si</w>
           <w>quis</w>
           <w>cumpara<c corresp="#v">u</c>erit</w>
-          <lb n="18" xml:id="CS730_lb_57_18"/>
+          <lb n="19" xml:id="CS730_lb_57_19"/>
           <w>terra</w>
           <w>id</w>
           <w>
@@ -14581,7 +14611,10 @@
           </w>
           <w>solum</w>
           <w>ad</w>
-          <w>edefi<lb n="19" xml:id="CS730_lb_57_19"/>candum</w>
+          <w><choice>
+            <orig>edefi<lb n="20" xml:id="CS730_lb_57_20_orig"/>candum</orig>
+            <reg>edifi<lb n="20" xml:id="CS730_lb_57_20_reg"/>candum</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
@@ -14595,7 +14628,7 @@
             </choice>
           </w>
           <w>mancipiata</w>
-          <lb n="20" xml:id="CS730_lb_57_20"/>
+          <lb n="21" xml:id="CS730_lb_57_21"/>
           <w>et</w>
           <w>
             <choice>
@@ -14603,9 +14636,13 @@
               <expan>quinq<ex>ue</ex></expan>
             </choice>
           </w>
-          <w>annus</w>
+          <w><choice>
+            <orig>annus</orig>
+            <reg>annos</reg>
+          </choice></w>
           <w>inter</w>
           <w>prae</w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_058.jp2/full/pct:30/0/default.jpg" n="58" xml:id="CS730_folio_58"/>
           <fw place="top-right" type="fol"><add hand="unknown">58</add></fw>
           <gap unit="lines"/>
@@ -14688,7 +14725,7 @@
           <w>liceat</w>
           <w>firmiter</w>
           <lb n="16" xml:id="CS730_lb_58_16"/>
-          <w>possedere</w>
+          <w><supplied reason="illegible" resp="leges">possid</supplied>ere</w>
           <w>quod</w>
           <w>sibi</w>
           <w>co<g ref="#nplig"/>ara<c corresp="#v">u</c>it</w>
@@ -14738,12 +14775,16 @@
           </damage>
           <w>et</w>
           <w>possessor</w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_059.jp2/full/pct:30/0/default.jpg" n="59" xml:id="CS730_folio_59"/>
           <fw place="top-right" type="fol"><add hand="unknown">59</add></fw>
           <lb n="01" xml:id="CS730_lb_59_01"/>
           <w>nega<c corresp="#v">u</c>erit</w>
           <w>ita</w>
-          <w>prospexemus</w>
+          <w><choice>
+            <orig>prospexemus</orig>
+            <reg>prospeximus</reg>
+          </choice></w>
           <add hand="unknown" place="margin"><num><w>231</w></num></add>
           <lb n="02" xml:id="CS730_lb_59_02"/>
           <w>quod</w>
@@ -14898,6 +14939,7 @@
           <w>mancipio</w>
           <w>lebroso</w>
           <add hand="unknown" place="margin"><num><w>233</w></num></add>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_060.jp2/full/pct:30/0/default.jpg" n="60" xml:id="CS730_folio_60"/>
           <fw place="top-left" type="fol"><add hand="unknown">60</add></fw>
           <lb n="01" xml:id="CS730_lb_60_01"/>
@@ -14921,7 +14963,10 @@
               <expan>a<ex>ut</ex></expan>
             </choice>
           </w>
-          <w>demunio<lb n="03" xml:id="CS730_lb_60_03"/>sus</w>
+          <w><choice>
+            <orig>demunio<lb n="03" xml:id="CS730_lb_60_03_orig"/>sus</orig>
+            <reg>demonio<lb n="03" xml:id="CS730_lb_60_03_reg"/>sus</reg>
+          </choice></w>
           <w>apparuerit</w>
           <w>tunc</w>
           <w><c corresp="#v">u</c>inditur</w>
@@ -14950,7 +14995,10 @@
           <w>amplius</w>
           <lb n="09" xml:id="CS730_lb_60_09"/>
           <space/><w>non</w>
-          <w>calumnietur</w>
+          <w><choice>
+            <orig>calumnietur</orig>
+            <reg>calomnietur</reg>
+          </choice></w>
         </p>
 
         <p n="237" xml:id="CS730_p_60_237">
@@ -14983,9 +15031,15 @@
           <w>re<c corresp="#v">u</c>ertant</w>
           <w>pa<lb n="14" xml:id="CS730_lb_60_14"/>riter</w>
           <w>ad</w>
-          <w>aucturem</w>
+          <w><choice>
+            <orig>aucturem</orig>
+            <reg>auctorem</reg>
+          </choice></w>
           <w>tunc</w>
-          <w>autur</w>
+          <w><choice>
+            <sic><orig>autur</orig></sic>
+            <corr><reg>auctor</reg></corr>
+          </choice></w>
           <lb n="15" xml:id="CS730_lb_60_15"/>
           <w>si</w>
           <w><c corresp="#v">u</c>indicare</w>
@@ -15031,6 +15085,7 @@
             </choice>
           </w>
           <w>accepi<unclear reason="faded">t</unclear></w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_061.jp2/full/pct:30/0/default.jpg" n="61" xml:id="CS730_folio_61"/>
           <fw place="top-right" type="fol"><add hand="unknown">61</add></fw>
           <lb n="01" xml:id="CS730_lb_61_01"/>
@@ -15048,9 +15103,11 @@
           <w>post</w>
           <w>empture</w>
           <w>filius</w>
-          <w><damage type="hole">
-              <supplied reason="illegible" resp="leges">f</supplied>
-            </damage>eci<lb n="04" xml:id="CS730_lb_61_04"/>rit</w>
+          <w><choice>
+            <orig><damage type="hole"><supplied reason="illegible" resp="leges">f</supplied></damage>eci<lb n="04"
+                xml:id="CS730_lb_61_04_orig"/>rit</orig>
+            <reg>fece<lb n="04" xml:id="CS730_lb_61_04_reg"/>rit</reg>
+          </choice></w>
           <w>tunc</w>
           <w>ille</w>
           <w>qui</w>
@@ -15087,7 +15144,10 @@
           <lb n="10" xml:id="CS730_lb_61_10"/>
           <w>et</w>
           <w>si</w>
-          <w>auctur</w>
+          <w><choice>
+            <orig>auctur</orig>
+            <reg>auctor</reg>
+          </choice></w>
           <w>mortuus</w>
           <w>fuerit</w>
           <lb n="11" xml:id="CS730_lb_61_11"/>
@@ -15139,10 +15199,14 @@
           <w>caballum</w>
           <w>emerit</w>
           <w>et</w>
-          <w>auc<lb n="20" xml:id="CS730_lb_61_20"/>turem</w>
+          <w><choice>
+            <orig>auc<lb n="20" xml:id="CS730_lb_61_20_reg"/>turem</orig>
+            <reg>auc<lb n="20" xml:id="CS730_lb_61_20_orig"/>torem</reg>
+          </choice></w>
           <w>ignora<c corresp="#v">u</c>erit</w>
           <w>et</w>
           <w><c corresp="#v">u</c>enerit</w>
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062.jp2/full/pct:30/0/default.jpg" n="62" xml:id="CS730_folio_62"/>
           <fw place="top-left" type="fol"><add hand="unknown">62</add></fw>
           <lb n="01" xml:id="CS730_lb_62_01"/>
@@ -15168,7 +15232,10 @@
               <w>ut</w>
             </supplied></damage>
           <w>dixemus</w>
-          <w>a<damage><supplied reason="illegible" resp="leges">ucturem</supplied></damage></w>
+          <w><choice>
+            <orig>a<damage><supplied reason="illegible" resp="leges">ucturem</supplied></damage></orig>
+            <reg>auctorem</reg>
+          </choice></w>
           <w>non</w>
           <lb n="04" xml:id="CS730_lb_62_04"/>
           <w>habuerit</w>
@@ -15187,7 +15254,10 @@
             </choice>
           </w>
           <lb n="06" xml:id="CS730_lb_62_06"/>
-          <w>emptur</w>
+          <w><choice>
+            <orig>emptur</orig>
+            <reg>emptor</reg>
+          </choice></w>
           <w>quia</w>
           <w>nec</w>
           <w>fur</w>
@@ -15221,7 +15291,10 @@
           <w>si</w>
           <w>quoquo</w>
           <w>tem<lb n="11" xml:id="CS730_lb_62_11"/>pore</w>
-          <w>aucture</w>
+          <w><choice>
+            <orig>aucture</orig>
+            <reg>auctore</reg>
+          </choice></w>
           <w>in<c corresp="#v">u</c>enerit</w>
           <w>non</w>
           <lb n="12" xml:id="CS730_lb_62_12"/>
@@ -15252,7 +15325,10 @@
           <lb n="16" xml:id="CS730_lb_62_16"/>
           <w>sub</w>
           <w>tali</w>
-          <w>tetulu</w>
+          <w><choice>
+            <orig>tetulu</orig>
+            <reg>titulo</reg>
+          </choice></w>
           <w>eum</w>
           <w>tollat</w>
           <w>ut</w>
@@ -15267,7 +15343,10 @@
           <w>et</w>
           <w>alter</w>
           <w>cer<lb n="19" xml:id="CS730_lb_62_19"/>tus</w>
-          <w>auctur</w>
+          <w><choice>
+            <orig>auctur</orig>
+            <reg>auctor</reg>
+          </choice></w>
           <w><c corresp="#v">u</c>inerit</w>
           <w>qui</w>
           <w>suum</w>
@@ -15509,10 +15588,9 @@
           </damage>
           <lb n="03" xml:id="CS730_lb_62b_03"/>
           <w>caballum</w>
-          <!--vedo una u quindi caballum?-->
           <damage>
             <supplied reason="illegible" resp="leges">
-              <w>domitos</w>
+              <w>domitum</w><!-- CHECK concordance vs critical edition -->
               <w>
                 <choice>
                   <abbr><am><g ref="#amacr"/></am></abbr>
@@ -15535,8 +15613,10 @@
           <lb n="05" xml:id="CS730_lb_62b_05"/>
           <w>ille</w>
           <w>qui</w>
-          <w>debet<gap extent="10" unit="chars"/>
-            <supplied reason="illegible" resp="leges">um</supplied></w>
+          <w><choice>
+            <orig>debet<gap extent="10" unit="chars"/><supplied reason="illegible" resp="leges">um</supplied></orig><!-- CHECK 10 chars? -->
+            <reg>debit<supplied reason="illegible" resp="leges">um</supplied></reg>
+          </choice></w>
           <supplied reason="illegible" resp="leges"><w>requirit</w></supplied>
           <damage>
             <supplied reason="illegible" resp="leges">
@@ -15548,13 +15628,14 @@
           <term ref="#sculdhais" xml:id="CS730_term_sculdhais_257" xml:lang="lng">
             <w>sculdhais</w>
           </term>
-          <!-- dovrebbe esserci 
-                    <w>et</w>
-                    <w>intimet</w>
-                    <w>causam</w>
-                    <w>suam</w> 
-                    secondo me causam ipsa-->
+          <supplied>
+            <w>et</w>
+            <w>intimet</w>
+            <w>causam</w>
+            <w>suam</w>
+          </supplied>
           <lb n="07" xml:id="CS730_lb_62b_07"/>
+          <w>sa</w><!-- CHECK possible ending of? -->
           <w>quia</w>
           <w>debetur</w>
           <w>ipsius</w>
@@ -15598,7 +15679,10 @@
           </damage>
           <lb n="11" xml:id="CS730_lb_62b_11"/>
           <unclear reason="faded">
-            <w>credetori</w>
+            <w><choice>
+              <orig>credetori</orig>
+              <reg>creditori</reg>
+            </choice></w>
             <w>dum</w>
             <w>usque</w>
             <w>ei</w>
