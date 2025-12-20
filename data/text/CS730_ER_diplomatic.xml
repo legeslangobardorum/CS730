@@ -17954,7 +17954,7 @@
           </w>
           <w><choice>
             <orig>alequis</orig>
-            <reg>aliequis</reg>
+            <reg>aliquis</reg>
           </choice></w>
           <lb n="09" xml:id="CS730_lb_67_09"/>
           <w>de</w>
@@ -18027,7 +18027,7 @@
           <w>hoc</w>
           <w>edictum</w>
           
-          <!-- ###################  FOLIO   ################### -->
+          <!-- ###################  FOLIO 68  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_068.jp2/full/pct:30/0/default.jpg" n="68" xml:id="CS730_folio_68"/>
           <fw place="top-left" type="fol"><add hand="unknown">68</add></fw>
@@ -18117,7 +18117,10 @@
           <lb n="15" xml:id="CS730_lb_68_15"/>
           <w>quod</w>
           <w>pater</w>
-          <w>debetur</w>
+          <w><choice>
+            <orig>debetur</orig>
+            <reg>debitur</reg>
+          </choice></w>
           <w>fuissit</w>
           <w>et</w>
           <lb n="16" xml:id="CS730_lb_68_16"/>
@@ -18599,7 +18602,7 @@
                     <w>in<c corresp="#v">u</c>entas</w>
                     <w>super</w>-->
           
-          <!-- ###################  FOLIO   ################### -->
+          <!-- ###################  FOLIO 71  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_071.jp2/full/pct:30/0/default.jpg" n="71" xml:id="CS730_folio_71"/>
           <fw place="top-right" type="fol"><add hand="unknown">71</add></fw>
@@ -18675,7 +18678,10 @@
           <w>causas</w>
           <w>regales</w>
           <w>om<lb n="11" xml:id="CS730_lb_71_11"/>nis</w>
-          <w><c corresp="#v">u</c>iro</w>
+          <w><choice>
+            <orig><c corresp="#v">u</c>iro</orig>
+            <reg><c corresp="#v">u</c>ero</reg>
+          </choice></w>
           <w>regales</w>
           <w>cau<lb n="12" xml:id="CS730_lb_71_12"/>sas</w>
           <w>quae</w>
@@ -18700,7 +18706,10 @@
             </choice>
           </w>
           <w>culpa</w>
-          <w>quere<lb n="15" xml:id="CS730_lb_71_15"/>tur</w>
+          <w><choice>
+            <orig>quere<lb n="15" xml:id="CS730_lb_71_15_orig"/>tur</orig>
+            <reg>queri<lb n="15" xml:id="CS730_lb_71_15_reg"/>tur</reg>
+          </choice></w>
           <w>dupliceter</w>
           <w>secundum</w>
           <lb n="16" xml:id="CS730_lb_71_16"/>
@@ -18744,7 +18753,7 @@
           <w>soledi</w>
           <w>iudicantur</w>
           
-          <!-- ###################  FOLIO   ################### -->
+          <!-- ###################  FOLIO 72  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_072.jp2/full/pct:30/0/default.jpg" n="72" xml:id="CS730_folio_72"/>
           <fw place="top-left" type="fol"><add hand="unknown">72</add></fw>
@@ -18876,7 +18885,10 @@
           <w>li<lb n="17" xml:id="CS730_lb_72_17"/>bera</w>
           <w>si</w>
           <w><c corresp="#v">u</c>iam</w>
-          <w>antestetirit</w>
+          <w><choice>
+            <orig>antestetirit</orig>
+            <reg>antesteterit</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#amacr"/></am></abbr>
@@ -18885,7 +18897,10 @@
           </w>
           <lb n="18" xml:id="CS730_lb_72_18"/>
           <w>iniuriam</w>
-          <w>fecirit</w>
+          <w><choice>
+            <orig>fecirit</orig>
+            <reg>fecerit</reg>
+          </choice></w>
           <w>seu</w>
           <w>de</w>
           <w>greges</w>
