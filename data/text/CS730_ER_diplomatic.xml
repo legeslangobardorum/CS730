@@ -350,7 +350,10 @@
     <body>
 
       <div n="Capp. 1-13" subtype="reati_contro_autorità" type="capitula" xml:id="CS730_div_1-13">
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_001.jp2/full/pct:30/0/default.jpg" n="01" xml:id="CS730_folio_01"/>
+        
+          <!-- ###################  FOLIO 1  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_001.jp2/full/pct:30/0/default.jpg" n="01" xml:id="CS730_folio_01"/>
 
         <p n="01" xml:id="CS730_p_01_01">
           <lb n="01" type="rubric" xml:id="CS730_lb_01_01"/>
@@ -508,7 +511,9 @@
             <supplied reason="illegible" resp="leges">iscentur</supplied></w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_002.jp2/full/pct:30/0/default.jpg" n="02" xml:id="CS730_folio_02"/>
+          <!-- ###################  FOLIO 2  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_002.jp2/full/pct:30/0/default.jpg" n="02" xml:id="CS730_folio_02"/>
         <p n="04" xml:id="CS730_p_02_04">
           <lb n="01" xml:id="CS730_lb_02_01"/>
           <label><num><w>IIII</w></num></label>
@@ -716,7 +721,10 @@
 
         <gap extent="2" unit="folios"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_003.jp2/full/pct:30/0/default.jpg" n="03" xml:id="CS730_folio_03"/>
+        
+          <!-- ###################  FOLIO 3  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_003.jp2/full/pct:30/0/default.jpg" n="03" xml:id="CS730_folio_03"/>
         <fw place="top-right" type="fol"><add hand="unknown">3</add></fw>
         <p n="12" xml:id="CS730_p_03_12">
           <lb n="01" xml:id="CS730_lb_03_01"/>
@@ -905,6 +913,9 @@
           <w>occiderit</w>
           <w>sit</w>
           <w>culpabilis</w>
+          
+          <!-- ###################  FOLIO 4  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_004.jp2/full/pct:30/0/default.jpg" n="04" xml:id="CS730_folio_04"/>
           <fw place="top-left" type="fol"><add hand="unknown">4</add></fw>
           <lb n="01" xml:id="CS730_lb_04_01"/>
@@ -1098,7 +1109,10 @@
           <w>solidus</w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_005.jp2/full/pct:30/0/default.jpg" n="05" xml:id="CS730_folio_05"/>
+        
+          <!-- ###################  FOLIO 5  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_005.jp2/full/pct:30/0/default.jpg" n="05" xml:id="CS730_folio_05"/>
         <fw place="top-left" type="fol"><add hand="unknown">5</add></fw>
         <p n="16" xml:id="CS730_p_05_16">
           <lb n="01" xml:id="CS730_lb_05_01"/>
@@ -1299,7 +1313,10 @@
           <w>generetur</w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_006.jp2/full/pct:30/0/default.jpg" n="06" xml:id="CS730_folio_06"/>
+        
+          <!-- ###################  FOLIO 6  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_006.jp2/full/pct:30/0/default.jpg" n="06" xml:id="CS730_folio_06"/>
         <p n="18" xml:id="CS730_p_06_18">
           <lb n="01" type="rubric" xml:id="CS730_lb_06_01"/>
           <label><num><w>XVIII</w></num></label>
@@ -1512,7 +1529,10 @@
             </damage></w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_007.jp2/full/pct:30/0/default.jpg" n="07" xml:id="CS730_folio_07"/>
+        
+          <!-- ###################  FOLIO 7  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_007.jp2/full/pct:30/0/default.jpg" n="07" xml:id="CS730_folio_07"/>
         <fw place="top-left" type="fol"><add hand="unknown">7</add></fw>
         <p n="20" xml:id="CS730_p_07_20">
           <lb n="01" type="rubric" xml:id="CS730_lb_07_01"/>
@@ -1705,6 +1725,9 @@
               <expan>suu<ex>m</ex></expan>
             </choice>
           </w>
+          
+          <!-- ###################  FOLIO 8  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_008.jp2/full/pct:30/0/default.jpg" n="08" xml:id="CS730_folio_08"/>
           <lb n="01" xml:id="CS730_lb_08_01"/>
           <w>con<unclear reason="damage">tempserit</unclear></w>
@@ -1915,6 +1938,9 @@
             <w>alio</w>
             <w>exercito</w>
           </unclear>
+          
+          <!-- ###################  FOLIO 9  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_009.jp2/full/pct:30/0/default.jpg" n="09" xml:id="CS730_folio_09"/>
           <fw place="top-right" type="fol"><add hand="unknown">9</add></fw>
           <lb n="01" xml:id="CS730_lb_09_01"/>
@@ -2178,7 +2204,10 @@
           </w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_010.jp2/full/pct:30/0/default.jpg" n="10" xml:id="CS730_folio_10"/>
+        
+          <!-- ###################  FOLIO 10  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_010.jp2/full/pct:30/0/default.jpg" n="10" xml:id="CS730_folio_10"/>
         <fw place="top-left" type="fol"><add hand="unknown">10</add></fw>
 
         <p n="29" xml:id="CS730_p_10_29">
@@ -2441,7 +2470,10 @@
 
         <gap extent="2" unit="folios"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_011.jp2/full/pct:30/0/default.jpg" n="11" xml:id="CS730_folio_11"/>
+        
+          <!-- ###################  FOLIO 11  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_011.jp2/full/pct:30/0/default.jpg" n="11" xml:id="CS730_folio_11"/>
         <fw place="top-right" type="fol"><add hand="unknown">11</add></fw>
         <p n="37" xml:id="CS730_p_11_37">
           <lb n="01" xml:id="CS730_lb_11_01"/>
@@ -2640,6 +2672,9 @@
           </w>
           <w>sit</w>
           <w>culpabilis</w>
+          
+          <!-- ###################  FOLIO 12  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_012.jp2/full/pct:30/0/default.jpg" n="12" xml:id="CS730_folio_12"/>
           <fw place="top-left" type="fol"><add hand="unknown">12</add></fw>
           <lb n="01" xml:id="CS730_lb_12_01"/>
@@ -2846,7 +2881,10 @@
         </p>
 
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_013.jp2/full/pct:30/0/default.jpg" n="13" xml:id="CS730_folio_13"/>
+        
+          <!-- ###################  FOLIO 13  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_013.jp2/full/pct:30/0/default.jpg" n="13" xml:id="CS730_folio_13"/>
         <fw place="top-right" type="fol"><add hand="unknown">13</add></fw>
         <p n="42" xml:id="CS730_p_13_42">
           <lb n="01" type="rubric" xml:id="CS730_lb_13_01"/>
@@ -3031,6 +3069,9 @@
               <expan>p<ex>er</ex>cusserit</expan>
             </choice>
           </w>
+          
+          <!-- ###################  FOLIO 14  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_014.jp2/full/pct:30/0/default.jpg" n="14" xml:id="CS730_folio_14"/>
           <fw place="top-right" type="fol"><add hand="unknown">14</add></fw>
           <lb n="01" xml:id="CS730_lb_14_01"/>
@@ -3274,6 +3315,9 @@
           <w>si</w>
           <w>usque</w>
           <w>tres</w>
+          
+          <!-- ###################  FOLIO 15  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_015.jp2/full/pct:30/0/default.jpg" n="15" xml:id="CS730_folio_15"/>
           <fw place="top-right" type="fol"><add hand="unknown">15</add></fw>
           <lb n="01" xml:id="CS730_lb_15_01"/>
@@ -3432,7 +3476,10 @@
 
         <gap extent="4" unit="lines"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_016.jp2/full/pct:30/0/default.jpg" n="16" xml:id="CS730_folio_16"/>
+        
+          <!-- ###################  FOLIO 16  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_016.jp2/full/pct:30/0/default.jpg" n="16" xml:id="CS730_folio_16"/>
         <fw place="top-left" type="fol"><add hand="unknown">16</add></fw>
         <p n="49" xml:id="CS730_p_15_49">
           <lb n="01" xml:id="CS730_lb_16_01"/>
@@ -3598,7 +3645,10 @@
 
         <gap extent="2" unit="folios"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_017.jp2/full/pct:30/0/default.jpg" n="17" xml:id="CS730_folio_17"/>
+        
+          <!-- ###################  FOLIO 17  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_017.jp2/full/pct:30/0/default.jpg" n="17" xml:id="CS730_folio_17"/>
         <fw place="top-right" type="fol"><add hand="unknown">17</add></fw>
         <p n="64" xml:id="CS730_p_17_64">
           <lb n="01" xml:id="CS730_lb_17_01"/>
@@ -3816,7 +3866,10 @@
           </w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_018.jp2/full/pct:30/0/default.jpg" n="18" xml:id="CS730_folio_18"/>
+        
+          <!-- ###################  FOLIO 18  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_018.jp2/full/pct:30/0/default.jpg" n="18" xml:id="CS730_folio_18"/>
         <fw place="top-left" type="fol"><add hand="unknown">18</add></fw>
         <p n="70" xml:id="CS730_p_18_70">
           <lb n="01" type="rubric" xml:id="CS730_lb_18_01"/>
@@ -4000,6 +4053,9 @@
           <w>requiratur</w>
           <w>nec</w>
           <w>dolus</w>
+          
+          <!-- ###################  FOLIO 19  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_019.jp2/full/pct:30/0/default.jpg" n="19" xml:id="CS730_folio_19"/>
           <fw place="top-right" type="fol"><add hand="unknown">19</add></fw>
           <lb n="01" xml:id="CS730_lb_19_01"/>
@@ -4167,6 +4223,9 @@
           <w>erit</w>
           <w>ut</w>
           <w>supra</w>
+          
+          <!-- ###################  FOLIO 20  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_020.jp2/full/pct:30/0/default.jpg" n="20" xml:id="CS730_folio_20"/>
           <fw place="top-left" type="fol"><add hand="unknown">20</add></fw>
           <lb n="01" xml:id="CS730_lb_20_01"/>
@@ -4353,7 +4412,10 @@
         <gap extent="2" unit="folios"/>
 
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_021.jp2/full/pct:30/0/default.jpg" n="21" xml:id="CS730_folio_21"/>
+        
+          <!-- ###################  FOLIO 21  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_021.jp2/full/pct:30/0/default.jpg" n="21" xml:id="CS730_folio_21"/>
         <fw place="top-right" type="fol"><add hand="unknown">21</add></fw>
         <p n="86" xml:id="CS730_p_21_86">
           <lb n="02" xml:id="CS730_lb_21_01"/>
@@ -4514,7 +4576,10 @@
 
         <gap extent="3" unit="lines"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_022.jp2/full/pct:30/0/default.jpg" n="22" xml:id="CS730_folio_22"/>
+        
+          <!-- ###################  FOLIO 22  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_022.jp2/full/pct:30/0/default.jpg" n="22" xml:id="CS730_folio_22"/>
         <fw place="top-left" type="fol"><add hand="unknown">22</add></fw>
 
         <p n="91" xml:id="CS730_p_22_91">
@@ -4741,7 +4806,10 @@
 
         <gap extent="4" unit="lines"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_023.jp2/full/pct:30/0/default.jpg" n="23" xml:id="CS730_folio_23"/>
+        
+          <!-- ###################  FOLIO 23  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_023.jp2/full/pct:30/0/default.jpg" n="23" xml:id="CS730_folio_23"/>
         <fw place="top-right" type="fol"><add hand="unknown">23</add></fw>
         <p n="97" xml:id="CS730_p_23_97">
           <lb n="01" xml:id="CS730_lb_23_01"/>
@@ -4989,6 +5057,9 @@
             </choice>
           </w>
           <w>ser<c corresp="#v">u</c>um</w>
+          
+          <!-- ###################  FOLIO 24  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_024.jp2/full/pct:30/0/default.jpg" n="24" xml:id="CS730_folio_24"/>
           <fw place="top-left" type="fol"><add hand="unknown">24</add></fw>
           <lb n="01" xml:id="CS730_lb_24_01"/>
@@ -5240,6 +5311,9 @@
             <supplied reason="illegible" resp="leges"><w>servum</w></supplied>
           </damage>
           <add hand="unknown" place="margin"><num><w>104</w></num></add>
+          
+          <!-- ###################  FOLIO 25  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_025.jp2/full/pct:30/0/default.jpg" n="25" xml:id="CS730_folio_25"/>
           <fw place="top" type="fol"><add hand="unknown">25</add></fw>
           <lb n="01" xml:id="CS730_lb_25_01"/>
@@ -5475,6 +5549,9 @@
             </choice>
           </w>
           <w>duo</w>
+          
+          <!-- ###################  FOLIO 26  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_026.jp2/full/pct:30/0/default.jpg" n="26" xml:id="CS730_folio_26"/>
           <fw place="top" type="fol"><add hand="unknown">26</add></fw>
           <lb n="01" xml:id="CS730_lb_26_01"/>
@@ -5744,6 +5821,9 @@
             </choice>
           </w>
 
+          
+          <!-- ###################  FOLIO 26a  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_026a.jp2/full/pct:30/0/default.jpg" n="26a" xml:id="CS730_folio_26a"/>
           <fw place="top-right" type="fol"><add hand="unknown">26a</add></fw>
           <lb n="01" xml:id="CS730_lb_26a_01"/>
@@ -5893,7 +5973,10 @@
 
         <gap unit="lines"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_026b.jp2/full/pct:30/0/default.jpg" n="26b" xml:id="CS730_folio_26b"/>
+        
+          <!-- ###################  FOLIO 26b  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_026b.jp2/full/pct:30/0/default.jpg" n="26b" xml:id="CS730_folio_26b"/>
         <fw place="top-left" type="fol"><add hand="unknown">26b</add></fw>
         <p n="120" xml:id="CS730_p_26b_120">
           <lb n="01" xml:id="CS730_lb_26b_01"/>
@@ -6029,7 +6112,10 @@
 
         <gap extent="2" unit="folios"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_027.jp2/full/pct:30/0/default.jpg" n="27" xml:id="CS730_folio_27"/>
+        
+          <!-- ###################  FOLIO 27  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_027.jp2/full/pct:30/0/default.jpg" n="27" xml:id="CS730_folio_27"/>
         <fw place="top-right" type="fol"><add hand="unknown">27</add></fw>
         <p n="130" xml:id="CS730_p_27_130">
           <lb n="01" xml:id="CS730_lb_27_01"/>
@@ -6284,6 +6370,9 @@
             </choice>
           </w>
           <w>amplius</w>
+          
+          <!-- ###################  FOLIO 28  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028.jp2/full/pct:30/0/default.jpg" n="28" xml:id="CS730_folio_28"/>
           <fw place="top-left" type="fol"><add hand="unknown">28</add></fw>
           <lb n="01" xml:id="CS730_lb_28_01"/>
@@ -6489,6 +6578,9 @@
             </choice>
           </w>
           <w>tres</w>
+          
+          <!-- ###################  FOLIO 28a  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028a.jp2/full/pct:30/0/default.jpg" n="28a" xml:id="CS730_folio_28a"/>
           <fw place="top-right" type="fol"><add hand="unknown">28a</add></fw>
           <lb n="01" xml:id="CS730_lb_28a_01"/>
@@ -6652,6 +6744,9 @@
           </w>
           <w>mulier</w>
           <w><c corresp="#v">u</c>enenum</w>
+
+          
+          <!-- ###################  FOLIO 28b  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028b.jp2/full/pct:30/0/default.jpg" n="28b" xml:id="CS730_folio_28b"/>
           <fw place="top-left" type="fol"><add hand="unknown">28b</add></fw>
@@ -6868,7 +6963,10 @@
       <gap extent="2" unit="folios"/>
 
       <div n="Capp. 146-152" subtype="reati_contro_cose" type="capitula" xml:id="CS730_div_146-152">
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028c.jp2/full/pct:30/0/default.jpg" n="28c" xml:id="CS730_folio_28c"/>
+        
+          <!-- ###################  FOLIO 28c  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028c.jp2/full/pct:30/0/default.jpg" n="28c" xml:id="CS730_folio_28c"/>
         <fw place="top-right" type="fol"><add hand="unknown">28c</add></fw>
         <p n="147" xml:id="CS730_p_28c_147">
           <lb n="01" xml:id="CS730_lb_28c_01"/>
@@ -7012,6 +7110,9 @@
               <reg resp="leges">fecerit</reg>
             </choice>
           </w>
+          
+          <!-- ###################  FOLIO 28d  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_028d.jp2/full/pct:30/0/default.jpg" n="28d" xml:id="CS730_folio_28d"/>
           <fw place="top-left" type="fol"><add hand="unknown">28d</add></fw>
           <lb n="01" xml:id="CS730_lb_28d_01"/>
@@ -7140,6 +7241,9 @@
           <lb n="20" xml:id="CS730_lb_28d_20"/>
           <w>foculare</w>
           <w>portatum</w>
+
+          
+          <!-- ###################  FOLIO 29  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_029.jp2/full/pct:30/0/default.jpg" n="29" xml:id="CS730_folio_29"/>
           <fw place="top-right" type="fol"><add hand="unknown">29</add></fw>
@@ -7339,6 +7443,9 @@
           <w>usque</w>
           <w>ad</w>
           <w>alia</w>
+          
+          <!-- ###################  FOLIO 30  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030.jp2/full/pct:30/0/default.jpg" n="30" xml:id="CS730_folio_30"/>
           <fw place="top-left" type="fol"><add hand="unknown">30</add></fw>
           <lb n="01" xml:id="CS730_lb_30_01"/>
@@ -7528,7 +7635,10 @@
         <gap extent="10" unit="folios"/><!-- CHECK -->
 
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030a.jp2/full/pct:30/0/default.jpg" n="30a" xml:id="CS730_folio_30a"/>
+        
+          <!-- ###################  FOLIO 30a  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030a.jp2/full/pct:30/0/default.jpg" n="30a" xml:id="CS730_folio_30a"/>
         <fw place="top-right" type="fol"><add hand="unknown">30a</add></fw>
         <p n="165" xml:id="CS730_p_30a_165">
           <lb n="01" xml:id="CS730_lb_30a_01"/>
@@ -7685,6 +7795,9 @@
               <supplied reason="illegible" resp="leges">an</supplied></damage>ima</w>
           <w>aut<unclear reason="faded">em</unclear></w>
 
+          
+          <!-- ###################  FOLIO 30b  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030b.jp2/full/pct:30/0/default.jpg" n="30b" xml:id="CS730_folio_30b"/>
           <fw place="top-left" type="fol"><add hand="unknown">30b</add></fw>
           <lb n="01" xml:id="CS730_lb_30b_01"/>
@@ -7824,7 +7937,10 @@
       <gap extent="4" unit="folios"/>
 
       <div n="Capp. 172-177" subtype="successioni" type="capitula" xml:id="CS730_div_172-177">
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030c.jp2/full/pct:30/0/default.jpg" n="30c" xml:id="CS730_folio_30c"/>
+        
+          <!-- ###################  FOLIO 30c  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030c.jp2/full/pct:30/0/default.jpg" n="30c" xml:id="CS730_folio_30c"/>
         <fw place="top-right" type="fol"><add hand="unknown">30c</add></fw>
         <!--<gap extent="8" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
@@ -7895,7 +8011,10 @@
 
         <gap extent="4" unit="lines"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030d.jp2/full/pct:30/0/default.jpg" n="30d" xml:id="CS730_folio_30d"/>
+        
+          <!-- ###################  FOLIO 30d  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030d.jp2/full/pct:30/0/default.jpg" n="30d" xml:id="CS730_folio_30d"/>
         <fw place="left" type="fol"><add hand="unknown">30d</add></fw>
         <!--<gap extent="8" unit="lines"/>--><!-- CHECK why do gap elements disrupt the first following paragraph? -->
 
@@ -7993,7 +8112,10 @@
         <gap extent="4" unit="lines"/>
 
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030e.jp2/full/pct:30/0/default.jpg" n="30e" xml:id="CS730_folio_30e"/>
+        
+          <!-- ###################  FOLIO 30e  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030e.jp2/full/pct:30/0/default.jpg" n="30e" xml:id="CS730_folio_30e"/>
         <fw place="top-right" type="fol"><add hand="unknown">30e</add></fw>
         <p n="175" xml:id="CS730_p_30e_175">
           <lb n="01" xml:id="CS730_lb_30e_01"/>
@@ -8143,6 +8265,9 @@
           <w>alii</w>
           <w>ded<gap extent="4" unit="chars"/>
             <supplied reason="illegible" resp="leges">erit</supplied></w>
+
+          
+          <!-- ###################  FOLIO 30f  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_030f.jp2/full/pct:30/0/default.jpg" n="30f" xml:id="CS730_folio_30f"/>
           <fw place="top-left" type="fol"><add hand="unknown">30f</add></fw>
@@ -8314,7 +8439,10 @@
       </div>
 
       <div n="Capp. 178-223" subtype="matrimoni" type="capitula" xml:id="CS730_div_178-223">
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_031.jp2/full/pct:30/0/default.jpg" n="31" xml:id="CS730_folio_31"/>
+        
+          <!-- ###################  FOLIO 31  ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_031.jp2/full/pct:30/0/default.jpg" n="31" xml:id="CS730_folio_31"/>
         <fw place="top-right" type="fol"><add hand="unknown">31</add></fw>
 
         <p n="178" xml:id="CS730_p_31_178">
@@ -8505,6 +8633,9 @@
           <w>habetur</w>
           <w>tamen</w>
 
+          
+          <!-- ###################  FOLIO 32  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_032.jp2/full/pct:30/0/default.jpg" n="32" xml:id="CS730_folio_32"/>
           <fw place="top-left" type="fol"><add hand="unknown">32</add></fw>
           <lb n="01" xml:id="CS730_lb_32_01"/>
@@ -8660,6 +8791,9 @@
           <w>tollere</w>
           <w>et</w>
           <w>dilata<c corresp="#v">u</c>erit</w>
+          
+          <!-- ###################  FOLIO 32a  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_032a.jp2/full/pct:30/0/default.jpg" n="32a" xml:id="CS730_folio_32a"/>
           <fw place="top-right" type="fol"><add hand="unknown">32a</add></fw>
           <lb n="01" xml:id="CS730_lb_32a_01"/>
@@ -8810,6 +8944,9 @@
             <w>ea</w>
           </unclear>
           <w>pureficare</w>
+          
+          <!-- ###################  FOLIO 32b  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_032b.jp2/full/pct:30/0/default.jpg" n="32b" xml:id="CS730_folio_32b"/>
           <lb n="01" xml:id="CS730_lb_32b_01"/>
           <w>cum</w>
@@ -8981,6 +9118,9 @@
           <w>tunc</w>
           <w>spun<gap extent="3" unit="chars"/>
             <supplied reason="illegible" resp="leges">sus</supplied></w>
+
+          
+          <!-- ###################  FOLIO 32c  ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_032c.jp2/full/pct:30/0/default.jpg" n="32c" xml:id="CS730_folio_32c"/>
           <fw place="top-right" type="fol"><add hand="unknown">32c</add></fw>
@@ -9162,6 +9302,9 @@
           <w>ambolandi</w>
           <w>libero</w>
 
+          
+          <!-- ###################  FOLIO 32d  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_032d.jp2/full/pct:30/0/default.jpg" n="32d" xml:id="CS730_folio_32d"/>
           <fw place="top-left" type="fol"><add hand="unknown">32d</add></fw>
           <lb n="01" xml:id="CS730_lb_32d_01"/>
@@ -9325,6 +9468,9 @@
           <w>qui</w>
           <w>prius</w>
           <!--dopo dovrebbe esserci <w>eam</w>-->
+          
+          <!-- ###################  FOLIO 33  ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_033.jp2/full/pct:30/0/default.jpg" n="33" xml:id="CS730_folio_33"/>
           <fw place="top-right" type="fol"><add hand="unknown">33</add></fw>
           <lb n="01" xml:id="CS730_lb_33_01"/>
@@ -9470,6 +9616,9 @@
           <w>uxore</w>
           <w>postea</w>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034.jp2/full/pct:30/0/default.jpg" n="34" xml:id="CS730_folio_34"/>
           <fw place="top-leftt" type="fol"><add hand="unknown">34</add></fw>
           <lb n="01" xml:id="CS730_lb_34_01"/>
@@ -9613,6 +9762,9 @@
               <expan>potestate<ex>m</ex></expan>
             </choice>
           </w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034a.jp2/full/pct:30/0/default.jpg" n="34a" xml:id="CS730_folio_34a"/>
           <fw place="top-left" type="fol"><add hand="unknown">34a</add></fw>
@@ -9819,6 +9971,9 @@
             </damage></w>
           <w>inlecitas</w>
           <w>consensit</w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034b.jp2/full/pct:30/0/default.jpg" n="34b" xml:id="CS730_folio_34b"/>
           <fw place="margin-left" type="fol"><add hand="unknown">34b</add></fw>
@@ -10030,7 +10185,10 @@
         </p>
 
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034c.jp2/full/pct:30/0/default.jpg" n="34c" xml:id="CS730_folio_34c"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034c.jp2/full/pct:30/0/default.jpg" n="34c" xml:id="CS730_folio_34c"/>
         <fw place="top-right" type="fol"><add hand="unknown">34c</add></fw>
         <!--<gap extent="9" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
@@ -10102,7 +10260,10 @@
 
         <!--<gap extent="4" unit="lines"/>--><!-- CHECK <gap/> problem -->
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034d.jp2/full/pct:30/0/default.jpg" n="34d" xml:id="CS730_folio_34d"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034d.jp2/full/pct:30/0/default.jpg" n="34d" xml:id="CS730_folio_34d"/>
         <fw place="top-left" type="fol"><add hand="unknown">34d</add></fw>
         <!--<gap extent="9" unit="lines"/>--><!-- CHECK <gap/> problem -->
         <p n="188" xml:id="CS730_p_055r_188">
@@ -10159,6 +10320,9 @@
           <w>cum</w>
           <w>liber</w>
           <gap extent="4" unit="lines"/>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034e.jp2/full/pct:30/0/default.jpg" n="34e" xml:id="CS730_folio_34e"/>
           <fw place="top-right" type="fol"><add hand="unknown">34e</add></fw>
@@ -10384,6 +10548,9 @@
           <w>alius</w>
           <w>viginti</w>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034f.jp2/full/pct:30/0/default.jpg" n="34f" xml:id="CS730_folio_34f"/>
           <fw place="top-left" type="fol"><add hand="unknown">34f</add></fw>
           <lb n="01" xml:id="CS730_lb_34f_01"/>
@@ -10542,6 +10709,9 @@
           <w>eius</w>
           <w>si</w>
           <w>con<c corresp="#v">u</c>enerit</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034g.jp2/full/pct:30/0/default.jpg" n="34g" xml:id="CS730_folio_34g"/>
           <fw place="top-right" type="fol"><add hand="unknown">34g</add></fw>
           <lb n="01" xml:id="CS730_lb_34g_01"/>
@@ -10701,6 +10871,9 @@
           <w>conludium</w>
           <w>fraudis</w>
           <w>consens<supplied>e</supplied><!-- CHECK looks more like an e than an s --><damage>ri</damage><supplied>nt</supplied></w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_034h.jp2/full/pct:30/0/default.jpg" n="34h" xml:id="CS730_folio_34h"/>
           <fw place="top-left" type="fol"><add hand="unknown">34h</add></fw>
@@ -10867,7 +11040,10 @@
           <w>duodicem</w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_035.jp2/full/pct:30/0/default.jpg" n="35" xml:id="CS730_folio_35"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_035.jp2/full/pct:30/0/default.jpg" n="35" xml:id="CS730_folio_35"/>
         <fw place="top-right" type="fol"><add hand="unknown">35</add></fw>
         <p n="199" xml:id="CS730_p_35_199">
           <lb n="01" type="rubric" xml:id="CS730_lb_35_01"/>
@@ -11036,6 +11212,9 @@
           <w><unclear reason="faded">potes</unclear>tate</w>
           <w>debeat</w>
           <w>habere</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_036.jp2/full/pct:30/0/default.jpg" n="36" xml:id="CS730_folio_36"/>
           <fw place="top-left" type="fol"><add hand="unknown">36</add></fw>
           <lb n="01" xml:id="CS730_lb_36_01"/>
@@ -11181,6 +11360,9 @@
           <w>crimen</w>
           <w>nefandum</w>
           <add hand="unknown" place="margin"><num><w>197</w></num></add>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_037.jp2/full/pct:30/0/default.jpg" n="37" xml:id="CS730_folio_37"/>
           <fw place="top-right" type="fol"><add hand="unknown">37</add></fw>
@@ -11355,6 +11537,9 @@
               </damage>ium</w>
           </term>
           <w>est</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_038.jp2/full/pct:30/0/default.jpg" n="38" xml:id="CS730_folio_38"/>
           <fw place="top-left" type="fol"><add hand="unknown">38</add></fw>
           <lb n="01" xml:id="CS730_lb_38_01"/>
@@ -11498,6 +11683,9 @@
           <w>si</w>
           <w>pro<c corresp="#v">u</c>atum</w>
           <w>fuerit</w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_039.jp2/full/pct:30/0/default.jpg" n="39" xml:id="CS730_folio_39"/>
           <fw place="top-right" type="fol"><add hand="unknown">39</add></fw>
@@ -11644,6 +11832,9 @@
           <w>illa</w>
           <w>remanserit</w>
           <!--a capo sotto a destra serit-->
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_040.jp2/full/pct:30/0/default.jpg" n="40" xml:id="CS730_folio_40"/>
           <fw place="top-left" type="fol"><add hand="unknown">40</add></fw>
@@ -11834,6 +12025,9 @@
           <w><damage><supplied reason="illegible" resp="leges">sub</supplied></damage>sta<g ref="#ntlig"/>ia</w>
           <!--c'è una tilde?-->
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_041.jp2/full/pct:30/0/default.jpg" n="41" xml:id="CS730_folio_41"/>
           <fw place="top-right" type="fol"><add hand="unknown">41</add></fw>
           <lb n="01" xml:id="CS730_lb_41_01"/>
@@ -11986,6 +12180,9 @@
           </term>
           <w>matre</w>
           <w>suae</w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_042.jp2/full/pct:30/0/default.jpg" n="42" xml:id="CS730_folio_42"/>
           <fw place="top-left" type="fol"><add hand="unknown">42</add></fw>
@@ -12171,6 +12368,9 @@
           <w>est</w>
           <!-- non sono sicura ci sia id est, idem?-->
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_043.jp2/full/pct:30/0/default.jpg" n="43" xml:id="CS730_folio_43"/>
           <fw place="top-right" type="fol"><add hand="unknown">43</add></fw>
           <lb n="01" xml:id="CS730_lb_43_01"/>
@@ -12341,6 +12541,9 @@
                 </damage>doru<ex>m</ex></expan>
             </choice>
           </w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_044.jp2/full/pct:30/0/default.jpg" n="44" xml:id="CS730_folio_44"/>
           <fw place="top-left" type="fol"><add hand="unknown">44</add></fw>
@@ -12557,6 +12760,9 @@
           <w><c corresp="#v">u</c>iole<unclear reason="faded">ntata</unclear></w>
           <add hand="unknown" place="margin"><num><w>208</w></num></add>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_045.jp2/full/pct:30/0/default.jpg" n="45" xml:id="CS730_folio_45"/>
           <fw place="top-right" type="fol"><add hand="unknown">45</add></fw>
           <lb n="01" xml:id="CS730_lb_45_01"/>
@@ -12744,6 +12950,9 @@
           <w>et</w>
           <w>medietatem</w>
           <!--medieta a capo tem-->
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_046.jp2/full/pct:30/0/default.jpg" n="46" xml:id="CS730_folio_46"/>
           <fw place="top-left" type="fol"><add hand="unknown">46</add></fw>
@@ -12952,6 +13161,9 @@
               <supplied reason="illegible" resp="leges">it</supplied>
             </damage></w>
           <add hand="unknown" place="margin"><num><w>213</w></num></add>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_047.jp2/full/pct:30/0/default.jpg" n="47" xml:id="CS730_folio_47"/>
           <fw place="top-right" type="fol"><add hand="unknown">47</add></fw>
           <!-- pagina 47 tutta danneggiata dal reagente, si leggono poche lettere/parole, inserita come?
@@ -13065,6 +13277,9 @@
                         <w>faida</w>
                     </term>
 					-->
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_048.jp2/full/pct:30/0/default.jpg" n="48" xml:id="CS730_folio_48"/>
           <fw place="top-left" type="fol"><add hand="unknown">48</add></fw>
           <lb n="01" xml:id="CS730_lb_48_01"/>
@@ -13229,6 +13444,9 @@
               <expan>mundiu<ex>m</ex></expan>
             </choice>
           </w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_049.jp2/full/pct:30/0/default.jpg" n="49" xml:id="CS730_folio_49"/>
           <fw place="top-right" type="fol"><add hand="unknown">49</add></fw>
           <lb n="01" xml:id="CS730_lb_49_01"/>
@@ -13389,6 +13607,9 @@
             </supplied>
           </damage>
           <add hand="unknown" place="margin"><num><w>218</w></num></add>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_050.jp2/full/pct:30/0/default.jpg" n="50" xml:id="CS730_folio_50"/>
           <fw place="top-left" type="fol"><add hand="unknown">50</add></fw>
           <lb n="01" xml:id="CS730_lb_50_01"/>
@@ -13544,6 +13765,9 @@
           <w>cuiuscumque</w>
           <add hand="unknown" place="margin"><num><w>220</w></num></add>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_051.jp2/full/pct:30/0/default.jpg" n="51" xml:id="CS730_folio_51"/>
           <fw place="top-right" type="fol"><add hand="unknown">51</add></fw>
           <lb n="01" xml:id="CS730_lb_51_01"/>
@@ -13679,7 +13903,10 @@
           <w>statuere</w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_052.jp2/full/pct:30/0/default.jpg" n="52" xml:id="CS730_folio_52"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_052.jp2/full/pct:30/0/default.jpg" n="52" xml:id="CS730_folio_52"/>
 
         <p n="225" xml:id="CS730_p_52_225">
           <lb n="01" type="rubric" xml:id="CS730_lb_52_01"/>
@@ -13834,6 +14061,9 @@
           <w>terminum</w>
           <w>posuit</w>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_053.jp2/full/pct:30/0/default.jpg" n="53" xml:id="CS730_folio_53"/>
           <lb n="01" xml:id="CS730_lb_53_01"/>
           <w>et</w>
@@ -13982,6 +14212,9 @@
           <w>et</w>
           <w>sic</w>
           <!-- e <w>dicat</w>?-->
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_054.jp2/full/pct:30/0/default.jpg" n="54" xml:id="CS730_folio_54"/>
           <lb n="01" xml:id="CS730_lb_54_01"/>
@@ -14136,6 +14369,9 @@
             <orig>dedirit</orig>
             <reg>dederit</reg>
           </choice></w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_055.jp2/full/pct:30/0/default.jpg" n="55" xml:id="CS730_folio_55"/>
           <fw place="top-right" type="fol"><add hand="unknown">55</add></fw>
@@ -14313,6 +14549,9 @@
               <reg resp="leges">fecerit</reg>
             </choice>
           </w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_056.jp2/full/pct:30/0/default.jpg" n="56" xml:id="CS730_folio_56"/>
           <fw place="top-left" type="fol"><add hand="unknown">56</add></fw>
@@ -14501,6 +14740,9 @@
           </w>
           <w>pri<c corresp="#v">u</c>atorum</w>
           <w>hominum</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_057.jp2/full/pct:30/0/default.jpg" n="57" xml:id="CS730_folio_57"/>
           <fw place="top-left" type="fol"><add hand="unknown">57</add></fw>
           <gap unit="lines"/>
@@ -14643,6 +14885,9 @@
           <w>inter</w>
           <w>prae</w>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_058.jp2/full/pct:30/0/default.jpg" n="58" xml:id="CS730_folio_58"/>
           <fw place="top-right" type="fol"><add hand="unknown">58</add></fw>
           <gap unit="lines"/>
@@ -14775,6 +15020,9 @@
           </damage>
           <w>et</w>
           <w>possessor</w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_059.jp2/full/pct:30/0/default.jpg" n="59" xml:id="CS730_folio_59"/>
           <fw place="top-right" type="fol"><add hand="unknown">59</add></fw>
@@ -14940,6 +15188,9 @@
           <w>lebroso</w>
           <add hand="unknown" place="margin"><num><w>233</w></num></add>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_060.jp2/full/pct:30/0/default.jpg" n="60" xml:id="CS730_folio_60"/>
           <fw place="top-left" type="fol"><add hand="unknown">60</add></fw>
           <lb n="01" xml:id="CS730_lb_60_01"/>
@@ -15086,6 +15337,9 @@
           </w>
           <w>accepi<unclear reason="faded">t</unclear></w>
 
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_061.jp2/full/pct:30/0/default.jpg" n="61" xml:id="CS730_folio_61"/>
           <fw place="top-right" type="fol"><add hand="unknown">61</add></fw>
           <lb n="01" xml:id="CS730_lb_61_01"/>
@@ -15206,6 +15460,9 @@
           <w>ignora<c corresp="#v">u</c>erit</w>
           <w>et</w>
           <w><c corresp="#v">u</c>enerit</w>
+
+          
+          <!-- ###################  FOLIO   ################### -->
 
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062.jp2/full/pct:30/0/default.jpg" n="62" xml:id="CS730_folio_62"/>
           <fw place="top-left" type="fol"><add hand="unknown">62</add></fw>
@@ -15369,7 +15626,10 @@
       <gap extent="6" unit="folios"/>
 
       <div n="Capp. 253-358" subtype="reati_minori" type="capitula" xml:id="CS730_div_253-358">
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062a.jp2/full/pct:30/0/default.jpg" n="62a" xml:id="CS730_folio_62a"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062a.jp2/full/pct:30/0/default.jpg" n="62a" xml:id="CS730_folio_62a"/>
         <fw place="top-right" type="fol"><add hand="unknown">62a</add></fw>
         <p n="255" xml:id="CS730_p_62a_255">
           <lb n="01" xml:id="CS730_lb_62a_01"/>
@@ -15556,7 +15816,10 @@
           <w>reddat</w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062b.jp2/full/pct:30/0/default.jpg" n="62b" xml:id="CS730_folio_62b"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062b.jp2/full/pct:30/0/default.jpg" n="62b" xml:id="CS730_folio_62b"/>
         <fw place="top-left" type="fol"><add hand="unknown">62b</add></fw>
 
         <p n="257" xml:id="CS730_p_62b_257">
@@ -15770,6 +16033,12 @@
             </w></supplied>
           <w>suam</w>
           <w>custodiam</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062c.jp2/full/pct:30/0/default.jpg" n="62c" xml:id="CS730_folio_62c"/>
           <lb n="01" xml:id="CS730_lb_62c_01"/>
           <w>sal<c corresp="#v">u</c>um</w>
@@ -15780,14 +16049,16 @@
               <expan>usq<ex>ue</ex></expan>
             </choice>
           </w>
-          <w>ad</w>
-          <gap extent="11" unit="chars"/>
-          <supplied reason="illegible" resp="leges"><w>praefinitum</w></supplied>
+          <supplied reason="illegible" resp="leges">
+            <w>ad</w>
+            <!--<gap extent="11" unit="chars"/>-->  <!-- CHECK <gap/>s commented to ensure <supplied> visualization TEST -->
+            <w>praefinitum</w>
+          </supplied>
           <lb n="02" xml:id="CS730_lb_62c_02"/>
           <w>tempus</w>
           <w>sicut</w>
           <w>subter</w>
-          <gap extent="10" unit="chars"/>
+          <!--<gap extent="10" unit="chars"/>-->
           <supplied reason="illegible" resp="leges">
             <w>adnexum</w>
             <w>est</w>
@@ -15808,17 +16079,16 @@
               <expan>p<ex>er</ex>sonas</expan>
             </choice>
           </w>
-          <gap extent="11" unit="chars"/>
+          <!--<gap extent="11" unit="chars"/>-->
           <supplied reason="illegible" resp="leges">
             <w>qui</w>
-            <w>intra</w></supplied>
-          <w><supplied reason="illegible" resp="leges">cen</supplied>tum</w>
-          <lb n="04" xml:id="CS730_lb_62c_04"/>
+            <w>intra</w>
+          </supplied>
+          <w><supplied reason="illegible" resp="leges">cen</supplied><lb n="04" xml:id="CS730_lb_62c_04"/>tum</w>
           <w>milia</w>
           <w>inter</w>
           <w>se</w>
-          <w>h<gap extent="7" unit="chars"/>
-            <supplied reason="illegible" resp="leges">abetant</supplied></w>
+          <w>h<gap extent="7" unit="chars"/><supplied reason="illegible" resp="leges">abetant</supplied></w>
           <!--non so quando va a capo con dies-->
           <w>dies</w>
           <lb n="05" xml:id="CS730_lb_62c_05"/>
@@ -15826,6 +16096,8 @@
           <!--dit spati?-->
           <w>et</w>
           <w>si</w>
+          <w>dit</w><!-- CHECK -->
+          <w>spati</w><!-- CHECK -->
           <lb n="06" xml:id="CS730_lb_62c_06"/>
           <!-- <w>infra</w>?-->
           <w>istos</w>
@@ -15843,8 +16115,13 @@
             <supplied reason="illegible" resp="leges">am</supplied></w>
           <supplied reason="illegible" resp="leges"><w>faciens</w></supplied>
           <lb n="08" xml:id="CS730_lb_62c_08"/>
-          <unclear reason="faded"><w>et</w>
-            <w>debetum</w></unclear>
+          <unclear reason="faded">
+            <w>et</w>
+            <w><choice>
+              <orig>debetum</orig>
+              <reg>debitum</reg>
+            </choice></w>
+          </unclear>
           <w>redden<gap extent="8" unit="chars"/>
             <supplied reason="illegible" resp="leges">s</supplied></w>
           <supplied reason="illegible" resp="leges"><w>non</w></supplied>
@@ -15915,20 +16192,22 @@
           <w><supplied reason="illegible" resp="leges">repo</supplied><lb n="16" xml:id="CS730_lb_62c_16"/>tit</w>
           <w>qui</w>
           <w>pignera</w>
-          <!-- non capisco cosa ho dopo re?
-                    <w>sua</w>
-                    <w>liberare</w>
-                    <w>neclexit</w> non può entrarci-->
+          <supplied resp="leges">
+            <w>sua</w>
+            <w>liberare</w>
+            <w>neclexit</w>
+          </supplied>
           <lb n="17" xml:id="CS730_lb_62c_17"/>
           <w>nam</w>
           <w>si</w>
           <w>intra</w>
           <w>istos</w>
           <!-- istus?-->
-          <gap extent="11" unit="chars"/>
+          <!--<gap extent="11" unit="chars"/>-->
           <supplied reason="illegible" resp="leges">
             <w>viginti</w>
-            <w>dies</w></supplied>
+            <w>dies</w>
+          </supplied>
           <lb n="18" xml:id="CS730_lb_62c_18"/>
           <w>ser<c corresp="#v">u</c>us</w>
           <w>
@@ -15968,6 +16247,9 @@
           <w>damn<gap extent="9" unit="chars"/>
             <supplied reason="illegible" resp="leges">um</supplied></w>
           <supplied reason="illegible" resp="leges"><w>fecerit</w></supplied>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062d.jp2/full/pct:30/0/default.jpg" n="62d" xml:id="CS730_folio_62d"/>
           <fw place="top-left" type="fol"><add hand="unknown">62d</add></fw>
           <lb n="01" xml:id="CS730_lb_62d_01"/>
@@ -16188,7 +16470,10 @@
 
         <gap extent="8" unit="folios"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062e.jp2/full/pct:30/0/default.jpg" n="62e" xml:id="CS730_folio_62e"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062e.jp2/full/pct:30/0/default.jpg" n="62e" xml:id="CS730_folio_62e"/>
         <fw place="top-right" type="fol"><add hand="unknown">62e</add></fw>
 
         <p n="277" xml:id="CS730_p_62e_277">
@@ -16371,6 +16656,9 @@
           <w>pro</w>
           <w>ipsa</w>
           <w>culpa</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062f.jp2/full/pct:30/0/default.jpg" n="62f" xml:id="CS730_folio_62f"/>
           <fw place="top-left" type="fol"><add hand="unknown">62f</add></fw>
           <lb n="01" xml:id="CS730_lb_62f_01"/>
@@ -16561,7 +16849,10 @@
 
         <gap extent="10" unit="folios"/>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062g.jp2/full/pct:30/0/default.jpg" n="62g" xml:id="CS730_folio_62g"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062g.jp2/full/pct:30/0/default.jpg" n="62g" xml:id="CS730_folio_62g"/>
         <fw place="top-right" type="fol"><add hand="unknown">62g</add></fw>
         <p n="312" xml:id="CS730_p_62g_312">
           <lb n="01" xml:id="CS730_lb_62g_01"/>
@@ -16768,6 +17059,9 @@
               <expan>conp<ex>onat</ex></expan>
             </choice>
           </w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_062h.jp2/full/pct:30/0/default.jpg" n="62h" xml:id="CS730_folio_62h"/>
           <fw place="top-left" type="fol"><add hand="unknown">62h</add></fw>
           <lb n="01" xml:id="CS730_lb_62h_01"/>
@@ -16966,7 +17260,10 @@
         <!--62i e 62j sono solo due pezzettini laterali e poi manca del testo, 
                 quindi non so l'esatta num dei paragrafi, ora c'è il 366-->
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_063.jp2/full/pct:30/0/default.jpg" n="63" xml:id="CS730_folio_63"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_063.jp2/full/pct:30/0/default.jpg" n="63" xml:id="CS730_folio_63"/>
         <fw place="top-right" type="fol"><add hand="unknown">63</add></fw>
 
         <p n="366" xml:id="CS730_p_63_366">
@@ -17130,7 +17427,10 @@
       </div>
 
       <div n="Capp. 367-385" subtype="miscellaneo" type="capitula" xml:id="CS730_div_367-385">
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_064.jp2/full/pct:30/0/default.jpg" n="64" xml:id="CS730_folio_64"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_064.jp2/full/pct:30/0/default.jpg" n="64" xml:id="CS730_folio_64"/>
         <fw place="top-left" type="fol"><add hand="unknown">64</add></fw>
 
         <p n="367" xml:id="CS730_p_64_367">
@@ -17275,6 +17575,9 @@
           <w>susci<lb n="20" xml:id="CS730_lb_64_20"/><gap extent="15" unit="chars"/>
             <supplied reason="illegible" resp="leges">perit</supplied></w>
           <supplied reason="illegible" resp="leges"><w>dilataverit</w></supplied>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_065.jp2/full/pct:30/0/default.jpg" n="65" xml:id="CS730_folio_65"/>
           <fw place="top-right" type="fol"><add hand="unknown">65</add></fw>
           <lb n="01" xml:id="CS730_lb_65_01"/>
@@ -17386,6 +17689,9 @@
           <w>debent</w>
           <w>tunc</w>
           <w>necesse</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_066.jp2/full/pct:30/0/default.jpg" n="66" xml:id="CS730_folio_66"/>
           <fw place="top-left" type="fol"><add hand="unknown">66</add></fw>
           <lb n="01" xml:id="CS730_lb_66_01"/>
@@ -17535,7 +17841,10 @@
           <w>est</w>
         </p>
 
-        <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_067.jp2/full/pct:30/0/default.jpg" n="67" xml:id="CS730_folio_67"/>
+        
+          <!-- ###################  FOLIO   ################### -->
+
+          <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_067.jp2/full/pct:30/0/default.jpg" n="67" xml:id="CS730_folio_67"/>
         <fw place="top-right" type="fol"><add hand="unknown">67</add></fw>
 
         <p n="369" xml:id="CS730_p_67_369">
@@ -17671,6 +17980,9 @@
           <w>in</w>
           <w>hoc</w>
           <w>edictum</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_068.jp2/full/pct:30/0/default.jpg" n="68" xml:id="CS730_folio_68"/>
           <fw place="top-left" type="fol"><add hand="unknown">68</add></fw>
           <lb n="01" xml:id="CS730_lb_68_01"/>
@@ -17781,6 +18093,9 @@
           <w>pater</w>
           <w>ipsius</w>
           <w>ei</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_069.jp2/full/pct:30/0/default.jpg" n="69" xml:id="CS730_folio_69"/>
           <fw place="top-right" type="fol"><add hand="unknown">69</add></fw>
           <lb n="01" xml:id="CS730_lb_69_01"/>
@@ -18015,6 +18330,9 @@
                     <w>nostri</w>
                     <w>langobardorum</w>
                     <w><c corresp="#v">u</c>i<c corresp="#v">u</c>ere</w>-->
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_070.jp2/full/pct:30/0/default.jpg" n="70" xml:id="CS730_folio_70"/>
           <fw place="top-right" type="fol"><add hand="unknown">70</add></fw>
           <lb n="01" xml:id="CS730_lb_70_01"/>
@@ -18234,6 +18552,9 @@
                     <w>si</w>
                     <w>in<c corresp="#v">u</c>entas</w>
                     <w>super</w>-->
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_071.jp2/full/pct:30/0/default.jpg" n="71" xml:id="CS730_folio_71"/>
           <fw place="top-right" type="fol"><add hand="unknown">71</add></fw>
           <lb n="01" xml:id="CS730_lb_71_01"/>
@@ -18376,6 +18697,9 @@
           </w>
           <w>soledi</w>
           <w>iudicantur</w>
+          
+          <!-- ###################  FOLIO   ################### -->
+
           <pb facs="https://www.e-codices.unifr.ch/loris/csg/csg-0730/csg-0730_072.jp2/full/pct:30/0/default.jpg" n="72" xml:id="CS730_folio_72"/>
           <fw place="top-left" type="fol"><add hand="unknown">72</add></fw>
           <lb n="01" xml:id="CS730_lb_72_01"/>
