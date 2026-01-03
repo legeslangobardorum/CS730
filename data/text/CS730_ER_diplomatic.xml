@@ -337,6 +337,7 @@
 
   <!-- TODO:
             
+    - regolarizzare sempre placa in plaga (? v. manuale scelte diplomatiche)
     - i <gap/> tra <p> impediscono a EVT di dividere e numerare correttamente le righe del primo <p>
     - frequentissime le abbreviazioni con segno su più lettere es. conp, sold
     - molti brani poco leggibili privi di <unclear> e/o <damage>
@@ -786,9 +787,15 @@
           <lb n="08" xml:id="CS730_lb_03_08"/>
           <w>quod</w>
           <w>nec</w>
-          <w>placa</w>
+          <w><choice>
+            <abbr>plag<am><g ref="#amacr"/></am></abbr><!-- CHECK corrected c in g RRDT -->
+            <expan>plaga<ex>m</ex></expan>
+          </choice></w>
           <w>nec</w>
-          <w>ferita</w>
+          <w><choice>
+            <abbr>ferit<am><g ref="#amacr"/></am></abbr>
+            <expan>ferita<ex>m</ex></expan>
+          </choice></w>
           <w>in</w>
           <w>ipso</w>
           <lb n="09" xml:id="CS730_lb_03_09"/>
@@ -12527,7 +12534,10 @@
           <w>potestatem</w>
           <w><c corresp="v">u</c>erorum</w>
           <lb n="05" xml:id="CS730_lb_44_05"/>
-          <damage><supplied reason="illegible" resp="leges"><w>aut</w></supplied></damage>
+          <damage><supplied reason="illegible" resp="leges"><w><choice>
+            <abbr><am><g ref="#amacr"/></am></abbr>
+            <expan>a<ex>ut</ex></expan>
+          </choice></w></supplied></damage>
           <w>certe</w>
           <w>regis</w>
           <w>debeat</w>
